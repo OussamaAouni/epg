@@ -244,484 +244,3558 @@
     <display-name lang="ar">Rotana Clip</display-name>
     <url>http://www.rotana.net</url>
   </channel>
-  <programme start="20250314171500 +0100" stop="20250314180000 +0100" channel="mbc">
-    <title lang="ar">يوميات رجل عانس</title>
+  <programme start="20250315220000 +0100" stop="20250315230000 +0100" channel="mbc">
+    <title lang="ar">سيد الناس</title>
     <title lang="ar">مسلسل
                (2025)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314180000 +0100" stop="20250314183000 +0100" channel="mbc">
+  <programme start="20250315230000 +0100" stop="20250316000000 +0100" channel="mbc">
+    <title lang="ar">برنامج تحدي المناطق</title>
+    <title lang="ar">11:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20250316000000 +0100" stop="20250316003000 +0100" channel="mbc">
     <title lang="ar">جاك العلم ج2</title>
     <title lang="ar">مسلسل
                (2025)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314183000 +0100" stop="20250314190000 +0100" channel="mbc">
+  <programme start="20250316003000 +0100" stop="20250316011000 +0100" channel="mbc">
+    <title lang="ar">يوميات رجل عانس</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316011000 +0100" stop="20250316014500 +0100" channel="mbc">
+    <title lang="ar">واي فاي 5</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316014500 +0100" stop="20250316021500 +0100" channel="mbc">
     <title lang="ar">رامز إيلون مصر</title>
     <title lang="ar">ﺑﺮﻧﺎﻣﺞ
                (2025)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314190000 +0100" stop="20250314200000 +0100" channel="mbc">
+  <programme start="20250316021500 +0100" stop="20250316030000 +0100" channel="mbc">
+    <title lang="ar">سين</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316030000 +0100" stop="20250316031500 +0100" channel="mbc">
+    <title lang="ar">مالك بالطويلة</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2019)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316031500 +0100" stop="20250316033000 +0100" channel="mbc">
+    <title lang="ar">برنامج حكاية وعد</title>
+    <title lang="ar">03:15  صباحًا
+              [15 دقيقة]</title>
+  </programme>
+  <programme start="20250316033000 +0100" stop="20250316042000 +0100" channel="mbc">
+    <title lang="ar">إفطارنا غير ج4</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316042000 +0100" stop="20250316051000 +0100" channel="mbc">
     <title lang="ar">أم أربعة وأربعين</title>
     <title lang="ar">مسلسل
                (2025)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314200000 +0100" stop="20250314210000 +0100" channel="mbc">
+  <programme start="20250316051000 +0100" stop="20250316061000 +0100" channel="mbc">
     <title lang="ar">شارع الأعشى</title>
     <title lang="ar">مسلسل
                (2025)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314210000 +0100" stop="20250314220000 +0100" channel="mbc">
+  <programme start="20250316061000 +0100" stop="20250316070000 +0100" channel="mbc">
     <title lang="ar">معاوية</title>
     <title lang="ar">مسلسل
                (2025)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314220000 +0100" stop="20250314230000 +0100" channel="mbc">
+  <programme start="20250316070000 +0100" stop="20250316080000 +0100" channel="mbc">
     <title lang="ar">سيد الناس</title>
     <title lang="ar">مسلسل
                (2025)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314230000 +0100" stop="20250315000000 +0100" channel="mbc">
+  <programme start="20250316080000 +0100" stop="20250316090000 +0100" channel="mbc">
     <title lang="ar">برنامج تحدي المناطق</title>
-    <title lang="ar">11:00  مساءً
+    <title lang="ar">08:00  صباحًا
               [60 دقيقة]</title>
   </programme>
-  <programme start="20250314170000 +0100" stop="20250314190000 +0100" channel="mbc_2">
-    <title lang="ar">The Chronicles of Riddick</title>
-    <title lang="ar">فيلم
-               (2004)</title>
+  <programme start="20250316090000 +0100" stop="20250316100000 +0100" channel="mbc">
+    <title lang="ar">إفطارنا غير ج4</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2025)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314190000 +0100" stop="20250314213000 +0100" channel="mbc_2">
-    <title lang="ar">Tenet</title>
-    <title lang="ar">فيلم
+  <programme start="20250316100000 +0100" stop="20250316110000 +0100" channel="mbc">
+    <title lang="ar">أم أربعة وأربعين</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316110000 +0100" stop="20250316111500 +0100" channel="mbc">
+    <title lang="ar">مالك بالطويلة</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2019)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316111500 +0100" stop="20250316113000 +0100" channel="mbc">
+    <title lang="ar">برنامج حكاية وعد</title>
+    <title lang="ar">11:15  صباحًا
+              [15 دقيقة]</title>
+  </programme>
+  <programme start="20250316113000 +0100" stop="20250316120000 +0100" channel="mbc">
+    <title lang="ar">سين</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
                (2020)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314213000 +0100" stop="20250314233000 +0100" channel="mbc_2">
-    <title lang="ar">Assassin's Creed</title>
-    <title lang="ar">فيلم
-               (2016)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250314233000 +0100" stop="20250315013000 +0100" channel="mbc_2">
-    <title lang="ar">Hotel Artemis</title>
-    <title lang="ar">فيلم
-               (2018)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250314170000 +0100" stop="20250314180000 +0100" channel="mbc_4">
-    <title lang="ar">رشيد</title>
-    <title lang="ar">مسلسل - ﻗﺼﻴﺮ
-               (2023)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250314180000 +0100" stop="20250314203000 +0100" channel="mbc_4">
-    <title lang="ar">Uzak Sehir</title>
-    <title lang="ar">مسلسل
-               (2024)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250314203000 +0100" stop="20250314230000 +0100" channel="mbc_4">
-    <title lang="ar">Golden Boy</title>
-    <title lang="ar">مسلسل
-               (2022)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250314230000 +0100" stop="20250315000000 +0100" channel="mbc_4">
-    <title lang="ar">الميراث</title>
-    <title lang="ar">مسلسل
-               (2020)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250314170000 +0100" stop="20250314190000 +0100" channel="mbc_action">
-    <title lang="ar">Durarara!!</title>
-    <title lang="ar">مسلسل - ﺭﺳﻮﻡ ﻣﺘﺤﺮﻛﺔ
-               (2010)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250314190000 +0100" stop="20250314200000 +0100" channel="mbc_action">
-    <title lang="ar">برنامج bears grylls</title>
-    <title lang="ar">07:00  مساءً
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20250314200000 +0100" stop="20250314210000 +0100" channel="mbc_action">
-    <title lang="ar">أدرينالين</title>
-    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
-               (2015)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250314210000 +0100" stop="20250314220000 +0100" channel="mbc_action">
-    <title lang="ar">برنامج bricks&amp;brain</title>
-    <title lang="ar">09:00  مساءً
-              [60 دقيقة]</title>
-  </programme>
-  <programme start="20250314220000 +0100" stop="20250314223000 +0100" channel="mbc_action">
-    <title lang="ar">Overlord</title>
-    <title lang="ar">مسلسل
-               (2015)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250314223000 +0100" stop="20250315000000 +0100" channel="mbc_action">
-    <title lang="ar">أكشن مع وليد</title>
-    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
-               (2021)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250314170000 +0100" stop="20250314180000 +0100" channel="mbc_drama">
-    <title lang="ar">البطل</title>
+  <programme start="20250316120000 +0100" stop="20250316123000 +0100" channel="mbc">
+    <title lang="ar">جاك العلم ج2</title>
     <title lang="ar">مسلسل
                (2025)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314180000 +0100" stop="20250314190000 +0100" channel="mbc_drama">
-    <title lang="ar">عمتي نوير</title>
-    <title lang="ar">مسلسل
-               (2025)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250314190000 +0100" stop="20250314200000 +0100" channel="mbc_drama">
-    <title lang="ar">تحت سابع أرض</title>
-    <title lang="ar">مسلسل
-               (2025)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250314200000 +0100" stop="20250314210000 +0100" channel="mbc_drama">
-    <title lang="ar">بيت حمولة</title>
-    <title lang="ar">مسلسل
-               (2025)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250314210000 +0100" stop="20250314220000 +0100" channel="mbc_drama">
-    <title lang="ar">إش إش</title>
-    <title lang="ar">مسلسل
-               (2025)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250314220000 +0100" stop="20250314230000 +0100" channel="mbc_drama">
-    <title lang="ar">أبو البنات</title>
-    <title lang="ar">مسلسل
-               (2025)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250314230000 +0100" stop="20250315000000 +0100" channel="mbc_drama">
-    <title lang="ar">عمتي نوير</title>
-    <title lang="ar">مسلسل
-               (2025)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250314173000 +0100" stop="20250314182000 +0100" channel="mbc_drama_plus">
-    <title lang="ar">البطل</title>
-    <title lang="ar">مسلسل
-               (2025)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250314182000 +0100" stop="20250314190000 +0100" channel="mbc_drama_plus">
-    <title lang="ar">عمتي نوير</title>
-    <title lang="ar">مسلسل
-               (2025)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250314190000 +0100" stop="20250314194500 +0100" channel="mbc_drama_plus">
-    <title lang="ar">أبو البنات</title>
-    <title lang="ar">مسلسل
-               (2025)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250314194500 +0100" stop="20250314203000 +0100" channel="mbc_drama_plus">
-    <title lang="ar">بيت حمولة</title>
-    <title lang="ar">مسلسل
-               (2025)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250314203000 +0100" stop="20250314212500 +0100" channel="mbc_drama_plus">
-    <title lang="ar">تحت سابع أرض</title>
-    <title lang="ar">مسلسل
-               (2025)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250314212500 +0100" stop="20250314222000 +0100" channel="mbc_drama_plus">
-    <title lang="ar">إش إش</title>
-    <title lang="ar">مسلسل
-               (2025)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250314222000 +0100" stop="20250314233000 +0100" channel="mbc_drama_plus">
-    <title lang="ar">البطل</title>
-    <title lang="ar">مسلسل
-               (2025)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250314233000 +0100" stop="20250315001500 +0100" channel="mbc_drama_plus">
-    <title lang="ar">عمتي نوير</title>
-    <title lang="ar">مسلسل
-               (2025)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250314170000 +0100" stop="20250314180000 +0100" channel="mbc_egypt">
+  <programme start="20250316123000 +0100" stop="20250316130000 +0100" channel="mbc">
     <title lang="ar">رامز إيلون مصر</title>
     <title lang="ar">ﺑﺮﻧﺎﻣﺞ
                (2025)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314180000 +0100" stop="20250314193000 +0100" channel="mbc_egypt">
-    <title lang="ar">العتاولة 2</title>
+  <programme start="20250316130000 +0100" stop="20250316133000 +0100" channel="mbc">
+    <title lang="ar">واي فاي 5</title>
     <title lang="ar">مسلسل
                (2025)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314193000 +0100" stop="20250314204500 +0100" channel="mbc_egypt">
-    <title lang="ar">المداح ج5 : أسطورة العهد</title>
+  <programme start="20250316133000 +0100" stop="20250316140000 +0100" channel="mbc">
+    <title lang="ar">يوميات رجل عانس</title>
     <title lang="ar">مسلسل
                (2025)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314204500 +0100" stop="20250314220000 +0100" channel="mbc_egypt">
-    <title lang="ar">أشغال شقة جدا</title>
-    <title lang="ar">مسلسل
-               (2025)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250314220000 +0100" stop="20250314235000 +0100" channel="mbc_egypt">
-    <title lang="ar">إش إش</title>
-    <title lang="ar">مسلسل
-               (2025)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250314235000 +0100" stop="20250315014000 +0100" channel="mbc_egypt">
-    <title lang="ar">سيد الناس</title>
-    <title lang="ar">مسلسل
-               (2025)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250314170000 +0100" stop="20250314184000 +0100" channel="mbc_masr_2">
-    <title lang="ar">سيد الناس</title>
-    <title lang="ar">مسلسل
-               (2025)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250314184000 +0100" stop="20250314201500 +0100" channel="mbc_masr_2">
-    <title lang="ar">80 باكو</title>
-    <title lang="ar">مسلسل
-               (2025)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250314201500 +0100" stop="20250314210000 +0100" channel="mbc_masr_2">
-    <title lang="ar">بروود كاست مع حسن عسيري</title>
+  <programme start="20250316140000 +0100" stop="20250316150000 +0100" channel="mbc">
+    <title lang="ar">إفطارنا غير ج4</title>
     <title lang="ar">ﺑﺮﻧﺎﻣﺞ
                (2025)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314210000 +0100" stop="20250314220000 +0100" channel="mbc_masr_2">
+  <programme start="20250316150000 +0100" stop="20250316151500 +0100" channel="mbc">
+    <title lang="ar">مالك بالطويلة</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2019)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316151500 +0100" stop="20250316160000 +0100" channel="mbc">
+    <title lang="ar">سين</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316160000 +0100" stop="20250316161500 +0100" channel="mbc">
+    <title lang="ar">برنامج حكاية وعد</title>
+    <title lang="ar">04:00  مساءً
+              [15 دقيقة]</title>
+  </programme>
+  <programme start="20250316161500 +0100" stop="20250316163000 +0100" channel="mbc">
+    <title lang="ar">فترة دينية</title>
+    <title lang="ar">04:15  مساءً
+              [15 دقيقة]</title>
+  </programme>
+  <programme start="20250316163000 +0100" stop="20250316170000 +0100" channel="mbc">
+    <title lang="ar">واي فاي 5</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316170000 +0100" stop="20250316171500 +0100" channel="mbc">
+    <title lang="ar">رمضان</title>
+    <title lang="ar">05:00  مساءً
+              [15 دقيقة]</title>
+  </programme>
+  <programme start="20250316171500 +0100" stop="20250316180000 +0100" channel="mbc">
+    <title lang="ar">يوميات رجل عانس</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316180000 +0100" stop="20250316183000 +0100" channel="mbc">
+    <title lang="ar">جاك العلم ج2</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316183000 +0100" stop="20250316190000 +0100" channel="mbc">
+    <title lang="ar">رامز إيلون مصر</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316190000 +0100" stop="20250316200000 +0100" channel="mbc">
+    <title lang="ar">أم أربعة وأربعين</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316200000 +0100" stop="20250316210000 +0100" channel="mbc">
+    <title lang="ar">شارع الأعشى</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316210000 +0100" stop="20250316220000 +0100" channel="mbc">
     <title lang="ar">معاوية</title>
     <title lang="ar">مسلسل
                (2025)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314220000 +0100" stop="20250314231500 +0100" channel="mbc_masr_2">
+  <programme start="20250316220000 +0100" stop="20250316230000 +0100" channel="mbc">
+    <title lang="ar">سيد الناس</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317000000 +0100" stop="20250317003000 +0100" channel="mbc">
+    <title lang="ar">جاك العلم ج2</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317003000 +0100" stop="20250317011000 +0100" channel="mbc">
+    <title lang="ar">يوميات رجل عانس</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317011000 +0100" stop="20250317014500 +0100" channel="mbc">
+    <title lang="ar">واي فاي 5</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317014500 +0100" stop="20250317021500 +0100" channel="mbc">
+    <title lang="ar">رامز إيلون مصر</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317021500 +0100" stop="20250317030000 +0100" channel="mbc">
+    <title lang="ar">سين</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317030000 +0100" stop="20250317031500 +0100" channel="mbc">
+    <title lang="ar">مالك بالطويلة</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2019)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317033000 +0100" stop="20250317042000 +0100" channel="mbc">
+    <title lang="ar">إفطارنا غير ج4</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317042000 +0100" stop="20250317051000 +0100" channel="mbc">
+    <title lang="ar">أم أربعة وأربعين</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317051000 +0100" stop="20250317061000 +0100" channel="mbc">
+    <title lang="ar">شارع الأعشى</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317061000 +0100" stop="20250317070000 +0100" channel="mbc">
+    <title lang="ar">معاوية</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317070000 +0100" stop="20250317080000 +0100" channel="mbc">
+    <title lang="ar">سيد الناس</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317090000 +0100" stop="20250317100000 +0100" channel="mbc">
+    <title lang="ar">إفطارنا غير ج4</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317100000 +0100" stop="20250317110000 +0100" channel="mbc">
+    <title lang="ar">أم أربعة وأربعين</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317110000 +0100" stop="20250317111500 +0100" channel="mbc">
+    <title lang="ar">مالك بالطويلة</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2019)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317113000 +0100" stop="20250317120000 +0100" channel="mbc">
+    <title lang="ar">سين</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317120000 +0100" stop="20250317123000 +0100" channel="mbc">
+    <title lang="ar">جاك العلم ج2</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317123000 +0100" stop="20250317130000 +0100" channel="mbc">
+    <title lang="ar">رامز إيلون مصر</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317130000 +0100" stop="20250317133000 +0100" channel="mbc">
+    <title lang="ar">واي فاي 5</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317133000 +0100" stop="20250317140000 +0100" channel="mbc">
+    <title lang="ar">يوميات رجل عانس</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317140000 +0100" stop="20250317150000 +0100" channel="mbc">
+    <title lang="ar">إفطارنا غير ج4</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317150000 +0100" stop="20250317151500 +0100" channel="mbc">
+    <title lang="ar">مالك بالطويلة</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2019)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317151500 +0100" stop="20250317160000 +0100" channel="mbc">
+    <title lang="ar">سين</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317163000 +0100" stop="20250317170000 +0100" channel="mbc">
+    <title lang="ar">واي فاي 5</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317171500 +0100" stop="20250317180000 +0100" channel="mbc">
+    <title lang="ar">يوميات رجل عانس</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317180000 +0100" stop="20250317183000 +0100" channel="mbc">
+    <title lang="ar">جاك العلم ج2</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317183000 +0100" stop="20250317190000 +0100" channel="mbc">
+    <title lang="ar">رامز إيلون مصر</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317190000 +0100" stop="20250317200000 +0100" channel="mbc">
+    <title lang="ar">أم أربعة وأربعين</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317200000 +0100" stop="20250317210000 +0100" channel="mbc">
+    <title lang="ar">شارع الأعشى</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317210000 +0100" stop="20250317220000 +0100" channel="mbc">
+    <title lang="ar">معاوية</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317220000 +0100" stop="20250317230000 +0100" channel="mbc">
+    <title lang="ar">سيد الناس</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250315213000 +0100" stop="20250315233000 +0100" channel="mbc_2">
+    <title lang="ar">Assassin's Creed</title>
+    <title lang="ar">فيلم
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250315233000 +0100" stop="20250316013000 +0100" channel="mbc_2">
+    <title lang="ar">Hotel Artemis</title>
+    <title lang="ar">فيلم
+               (2018)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316013000 +0100" stop="20250316040000 +0100" channel="mbc_2">
+    <title lang="ar">The Holiday</title>
+    <title lang="ar">فيلم
+               (2006)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316040000 +0100" stop="20250316060000 +0100" channel="mbc_2">
+    <title lang="ar">Insidious: Chapter 2</title>
+    <title lang="ar">فيلم
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316060000 +0100" stop="20250316073000 +0100" channel="mbc_2">
+    <title lang="ar">When Harry Met Sally</title>
+    <title lang="ar">فيلم
+               (1989)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316073000 +0100" stop="20250316103000 +0100" channel="mbc_2">
+    <title lang="ar">Tenet</title>
+    <title lang="ar">فيلم
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316103000 +0100" stop="20250316130000 +0100" channel="mbc_2">
+    <title lang="ar">The Chronicles of Riddick</title>
+    <title lang="ar">فيلم
+               (2004)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316130000 +0100" stop="20250316150000 +0100" channel="mbc_2">
+    <title lang="ar">Assassin's Creed</title>
+    <title lang="ar">فيلم
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316150000 +0100" stop="20250316170000 +0100" channel="mbc_2">
+    <title lang="ar">The Edge of Seventeen</title>
+    <title lang="ar">فيلم
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316170000 +0100" stop="20250316190000 +0100" channel="mbc_2">
+    <title lang="ar">The Devil Wears Prada</title>
+    <title lang="ar">فيلم
+               (2006)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316190000 +0100" stop="20250316213000 +0100" channel="mbc_2">
+    <title lang="ar">Molly's Game</title>
+    <title lang="ar">فيلم
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316213000 +0100" stop="20250316233000 +0100" channel="mbc_2">
+    <title lang="ar">Our Brand Is Crisis</title>
+    <title lang="ar">فيلم
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316233000 +0100" stop="20250317020000 +0100" channel="mbc_2">
+    <title lang="ar">The Wolf of Wall Street</title>
+    <title lang="ar">فيلم
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317020000 +0100" stop="20250317040000 +0100" channel="mbc_2">
+    <title lang="ar">The Wedding Planner</title>
+    <title lang="ar">فيلم
+               (2001)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317040000 +0100" stop="20250317053000 +0100" channel="mbc_2">
+    <title lang="ar">Hotel Artemis</title>
+    <title lang="ar">فيلم
+               (2018)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317053000 +0100" stop="20250317073000 +0100" channel="mbc_2">
+    <title lang="ar">The Chronicles of Riddick</title>
+    <title lang="ar">فيلم
+               (2004)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317073000 +0100" stop="20250317100000 +0100" channel="mbc_2">
+    <title lang="ar">Molly's Game</title>
+    <title lang="ar">فيلم
+               (2017)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317100000 +0100" stop="20250317120000 +0100" channel="mbc_2">
+    <title lang="ar">The Devil Wears Prada</title>
+    <title lang="ar">فيلم
+               (2006)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317120000 +0100" stop="20250317143000 +0100" channel="mbc_2">
+    <title lang="ar">Brooklyn's Finest</title>
+    <title lang="ar">فيلم
+               (2009)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317143000 +0100" stop="20250317163000 +0100" channel="mbc_2">
+    <title lang="ar">The Photograph</title>
+    <title lang="ar">فيلم
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317163000 +0100" stop="20250317193000 +0100" channel="mbc_2">
+    <title lang="ar">Waves</title>
+    <title lang="ar">فيلم
+               (2019)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317193000 +0100" stop="20250317213000 +0100" channel="mbc_2">
+    <title lang="ar">Mechanic: Resurrection</title>
+    <title lang="ar">فيلم
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317213000 +0100" stop="20250317233000 +0100" channel="mbc_2">
+    <title lang="ar">Non-Stop</title>
+    <title lang="ar">فيلم
+               (2014)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250315203000 +0100" stop="20250315230000 +0100" channel="mbc_4">
+    <title lang="ar">Golden Boy</title>
+    <title lang="ar">مسلسل
+               (2022)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250315230000 +0100" stop="20250316000000 +0100" channel="mbc_4">
+    <title lang="ar">الميراث</title>
+    <title lang="ar">مسلسل
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316000000 +0100" stop="20250316003000 +0100" channel="mbc_4">
+    <title lang="ar">برنامح ستارز إن ستايل</title>
+    <title lang="ar">12:00  صباحًا
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20250316003000 +0100" stop="20250316010000 +0100" channel="mbc_4">
+    <title lang="ar">برنامج fashion forward</title>
+    <title lang="ar">12:30  صباحًا
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20250316010000 +0100" stop="20250316034000 +0100" channel="mbc_4">
+    <title lang="ar">Uzak Sehir</title>
+    <title lang="ar">مسلسل
+               (2024)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316034000 +0100" stop="20250316061000 +0100" channel="mbc_4">
+    <title lang="ar">Golden Boy S3</title>
+    <title lang="ar">مسلسل
+               (2024)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316061000 +0100" stop="20250316070000 +0100" channel="mbc_4">
+    <title lang="ar">الميراث</title>
+    <title lang="ar">مسلسل
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316070000 +0100" stop="20250316080000 +0100" channel="mbc_4">
+    <title lang="ar">رشيد</title>
+    <title lang="ar">مسلسل - ﻗﺼﻴﺮ
+               (2023)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316080000 +0100" stop="20250316093000 +0100" channel="mbc_4">
+    <title lang="ar">عروس بيروت ج3</title>
+    <title lang="ar">مسلسل
+               (2021)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316093000 +0100" stop="20250316100000 +0100" channel="mbc_4">
+    <title lang="ar">Films &amp; Stars</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2008)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316100000 +0100" stop="20250316110000 +0100" channel="mbc_4">
+    <title lang="ar">رشيد</title>
+    <title lang="ar">مسلسل - ﻗﺼﻴﺮ
+               (2023)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316110000 +0100" stop="20250316120000 +0100" channel="mbc_4">
+    <title lang="ar">الميراث</title>
+    <title lang="ar">مسلسل
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316120000 +0100" stop="20250316123000 +0100" channel="mbc_4">
+    <title lang="ar">برنامج stars in style</title>
+    <title lang="ar">12:00  مساءً
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20250316123000 +0100" stop="20250316130000 +0100" channel="mbc_4">
+    <title lang="ar">برنامج celebrity scoop</title>
+    <title lang="ar">12:30  مساءً
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20250316130000 +0100" stop="20250316170000 +0100" channel="mbc_4">
+    <title lang="ar">لعبة حب</title>
+    <title lang="ar">مسلسل
+               (2024)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316170000 +0100" stop="20250316180000 +0100" channel="mbc_4">
+    <title lang="ar">رشيد</title>
+    <title lang="ar">مسلسل - ﻗﺼﻴﺮ
+               (2023)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316180000 +0100" stop="20250316203000 +0100" channel="mbc_4">
+    <title lang="ar">I Am Mother</title>
+    <title lang="ar">مسلسل
+               (2023)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316203000 +0100" stop="20250316230000 +0100" channel="mbc_4">
+    <title lang="ar">Leyla</title>
+    <title lang="ar">مسلسل
+               (2024)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316230000 +0100" stop="20250317000000 +0100" channel="mbc_4">
+    <title lang="ar">الميراث</title>
+    <title lang="ar">مسلسل
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317000000 +0100" stop="20250317003000 +0100" channel="mbc_4">
+    <title lang="ar">برنامج stars in style</title>
+    <title lang="ar">12:00  صباحًا
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20250317003000 +0100" stop="20250317010000 +0100" channel="mbc_4">
+    <title lang="ar">برنامج celebrity scoop</title>
+    <title lang="ar">12:30  صباحًا
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20250317010000 +0100" stop="20250317033000 +0100" channel="mbc_4">
+    <title lang="ar">I Am Mother</title>
+    <title lang="ar">مسلسل
+               (2023)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317033000 +0100" stop="20250317060000 +0100" channel="mbc_4">
+    <title lang="ar">Leyla</title>
+    <title lang="ar">مسلسل
+               (2024)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317060000 +0100" stop="20250317070000 +0100" channel="mbc_4">
+    <title lang="ar">الميراث</title>
+    <title lang="ar">مسلسل
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317070000 +0100" stop="20250317073000 +0100" channel="mbc_4">
+    <title lang="ar">Golden Boy S3</title>
+    <title lang="ar">مسلسل
+               (2024)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317073000 +0100" stop="20250317080000 +0100" channel="mbc_4">
+    <title lang="ar">Leyla</title>
+    <title lang="ar">مسلسل
+               (2024)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317080000 +0100" stop="20250317083000 +0100" channel="mbc_4">
+    <title lang="ar">Uzak Sehir</title>
+    <title lang="ar">مسلسل
+               (2024)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317083000 +0100" stop="20250317090000 +0100" channel="mbc_4">
+    <title lang="ar">I Am Mother</title>
+    <title lang="ar">مسلسل
+               (2023)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317090000 +0100" stop="20250317100000 +0100" channel="mbc_4">
+    <title lang="ar">لعبة حب</title>
+    <title lang="ar">مسلسل
+               (2024)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317100000 +0100" stop="20250317103000 +0100" channel="mbc_4">
+    <title lang="ar">Hollywood Buzz</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (1998)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317103000 +0100" stop="20250317110000 +0100" channel="mbc_4">
+    <title lang="ar">برنامج A-List Lifestyle</title>
+    <title lang="ar">10:30  صباحًا
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20250317110000 +0100" stop="20250317120000 +0100" channel="mbc_4">
+    <title lang="ar">الميراث</title>
+    <title lang="ar">مسلسل
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317120000 +0100" stop="20250317130000 +0100" channel="mbc_4">
+    <title lang="ar">لعبة حب</title>
+    <title lang="ar">مسلسل
+               (2024)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317130000 +0100" stop="20250317140000 +0100" channel="mbc_4">
+    <title lang="ar">للموت ج2</title>
+    <title lang="ar">مسلسل
+               (2022)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317140000 +0100" stop="20250317143000 +0100" channel="mbc_4">
+    <title lang="ar">Uzak Sehir</title>
+    <title lang="ar">مسلسل
+               (2024)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317143000 +0100" stop="20250317150000 +0100" channel="mbc_4">
+    <title lang="ar">I Am Mother</title>
+    <title lang="ar">مسلسل
+               (2023)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317150000 +0100" stop="20250317153000 +0100" channel="mbc_4">
+    <title lang="ar">Golden Boy S3</title>
+    <title lang="ar">مسلسل
+               (2024)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317153000 +0100" stop="20250317160000 +0100" channel="mbc_4">
+    <title lang="ar">Leyla</title>
+    <title lang="ar">مسلسل
+               (2024)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317160000 +0100" stop="20250317170000 +0100" channel="mbc_4">
+    <title lang="ar">للموت ج2</title>
+    <title lang="ar">مسلسل
+               (2022)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317170000 +0100" stop="20250317180000 +0100" channel="mbc_4">
+    <title lang="ar">عروس بيروت ج3</title>
+    <title lang="ar">مسلسل
+               (2021)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317180000 +0100" stop="20250317183000 +0100" channel="mbc_4">
+    <title lang="ar">Uzak Sehir</title>
+    <title lang="ar">مسلسل
+               (2024)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317183000 +0100" stop="20250317190000 +0100" channel="mbc_4">
+    <title lang="ar">I Am Mother</title>
+    <title lang="ar">مسلسل
+               (2023)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317190000 +0100" stop="20250317193000 +0100" channel="mbc_4">
+    <title lang="ar">Golden Boy S3</title>
+    <title lang="ar">مسلسل
+               (2024)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317193000 +0100" stop="20250317200000 +0100" channel="mbc_4">
+    <title lang="ar">Leyla</title>
+    <title lang="ar">مسلسل
+               (2024)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317200000 +0100" stop="20250317210000 +0100" channel="mbc_4">
+    <title lang="ar">لعبة حب</title>
+    <title lang="ar">مسلسل
+               (2024)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317210000 +0100" stop="20250317213000 +0100" channel="mbc_4">
+    <title lang="ar">Hollywood Buzz</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (1998)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317213000 +0100" stop="20250317220000 +0100" channel="mbc_4">
+    <title lang="ar">برنامج A-List Lifestyle</title>
+    <title lang="ar">09:30  مساءً
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20250317220000 +0100" stop="20250317230000 +0100" channel="mbc_4">
+    <title lang="ar">للموت ج2</title>
+    <title lang="ar">مسلسل
+               (2022)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317230000 +0100" stop="20250318000000 +0100" channel="mbc_4">
+    <title lang="ar">الميراث</title>
+    <title lang="ar">مسلسل
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250315223000 +0100" stop="20250316000000 +0100" channel="mbc_action">
+    <title lang="ar">أكشن مع وليد</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2021)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316000000 +0100" stop="20250316020000 +0100" channel="mbc_action">
+    <title lang="ar">Durarara!!</title>
+    <title lang="ar">مسلسل - ﺭﺳﻮﻡ ﻣﺘﺤﺮﻛﺔ
+               (2010)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316020000 +0100" stop="20250316033000 +0100" channel="mbc_action">
+    <title lang="ar">أكشن مع وليد</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2021)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316033000 +0100" stop="20250316043000 +0100" channel="mbc_action">
+    <title lang="ar">Overlord</title>
+    <title lang="ar">مسلسل
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316043000 +0100" stop="20250316053000 +0100" channel="mbc_action">
+    <title lang="ar">برنامج bricks&amp;brain</title>
+    <title lang="ar">04:30  صباحًا
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20250316053000 +0100" stop="20250316070000 +0100" channel="mbc_action">
+    <title lang="ar">أكشن مع وليد</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2021)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316070000 +0100" stop="20250316080000 +0100" channel="mbc_action">
+    <title lang="ar">Overlord</title>
+    <title lang="ar">مسلسل
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316080000 +0100" stop="20250316090000 +0100" channel="mbc_action">
+    <title lang="ar">أدرينالين</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316090000 +0100" stop="20250316120000 +0100" channel="mbc_action">
+    <title lang="ar">برنامج podcast mortda</title>
+    <title lang="ar">09:00  صباحًا
+              [180 دقيقة]</title>
+  </programme>
+  <programme start="20250316120000 +0100" stop="20250316130000 +0100" channel="mbc_action">
+    <title lang="ar">Overlord</title>
+    <title lang="ar">مسلسل
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316130000 +0100" stop="20250316140000 +0100" channel="mbc_action">
+    <title lang="ar">أدرينالين</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316140000 +0100" stop="20250316150000 +0100" channel="mbc_action">
+    <title lang="ar">برنامج american ninja warrior</title>
+    <title lang="ar">02:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20250316150000 +0100" stop="20250316163000 +0100" channel="mbc_action">
+    <title lang="ar">أكشن مع وليد</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2021)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316163000 +0100" stop="20250316170000 +0100" channel="mbc_action">
+    <title lang="ar">Overlord</title>
+    <title lang="ar">مسلسل
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316170000 +0100" stop="20250316190000 +0100" channel="mbc_action">
+    <title lang="ar">Durarara!!</title>
+    <title lang="ar">مسلسل - ﺭﺳﻮﻡ ﻣﺘﺤﺮﻛﺔ
+               (2010)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316190000 +0100" stop="20250316200000 +0100" channel="mbc_action">
+    <title lang="ar">برنامج bricks&amp;brain</title>
+    <title lang="ar">07:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20250316200000 +0100" stop="20250316210000 +0100" channel="mbc_action">
+    <title lang="ar">برنامج world funniest videos</title>
+    <title lang="ar">08:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20250316210000 +0100" stop="20250316220000 +0100" channel="mbc_action">
+    <title lang="ar">Ridiculousness</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2011)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316220000 +0100" stop="20250316223000 +0100" channel="mbc_action">
+    <title lang="ar">Overlord</title>
+    <title lang="ar">مسلسل
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316223000 +0100" stop="20250317000000 +0100" channel="mbc_action">
+    <title lang="ar">أكشن مع وليد</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2021)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317000000 +0100" stop="20250317020000 +0100" channel="mbc_action">
+    <title lang="ar">Durarara!!</title>
+    <title lang="ar">مسلسل - ﺭﺳﻮﻡ ﻣﺘﺤﺮﻛﺔ
+               (2010)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317020000 +0100" stop="20250317033000 +0100" channel="mbc_action">
+    <title lang="ar">أكشن مع وليد</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2021)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317033000 +0100" stop="20250317043000 +0100" channel="mbc_action">
+    <title lang="ar">Overlord</title>
+    <title lang="ar">مسلسل
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317043000 +0100" stop="20250317053000 +0100" channel="mbc_action">
+    <title lang="ar">Ridiculousness</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2011)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317053000 +0100" stop="20250317070000 +0100" channel="mbc_action">
+    <title lang="ar">أكشن مع وليد</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2021)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317070000 +0100" stop="20250317080000 +0100" channel="mbc_action">
+    <title lang="ar">Overlord</title>
+    <title lang="ar">مسلسل
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317080000 +0100" stop="20250317090000 +0100" channel="mbc_action">
+    <title lang="ar">برنامج world funniest videos</title>
+    <title lang="ar">08:00  صباحًا
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20250317090000 +0100" stop="20250317100000 +0100" channel="mbc_action">
+    <title lang="ar">برنامج top gear australia</title>
+    <title lang="ar">09:00  صباحًا
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20250317100000 +0100" stop="20250317110000 +0100" channel="mbc_action">
+    <title lang="ar">برنامج running wild with bear grylls</title>
+    <title lang="ar">10:00  صباحًا
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20250317110000 +0100" stop="20250317120000 +0100" channel="mbc_action">
+    <title lang="ar">برنامج american ninja warrior</title>
+    <title lang="ar">11:00  صباحًا
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20250317120000 +0100" stop="20250317130000 +0100" channel="mbc_action">
+    <title lang="ar">Overlord</title>
+    <title lang="ar">مسلسل
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317130000 +0100" stop="20250317140000 +0100" channel="mbc_action">
+    <title lang="ar">برنامج world funniest videos</title>
+    <title lang="ar">01:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20250317140000 +0100" stop="20250317150000 +0100" channel="mbc_action">
+    <title lang="ar">Ridiculousness</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2011)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317150000 +0100" stop="20250317163000 +0100" channel="mbc_action">
+    <title lang="ar">أكشن مع وليد</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2021)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317163000 +0100" stop="20250317170000 +0100" channel="mbc_action">
+    <title lang="ar">Overlord</title>
+    <title lang="ar">مسلسل
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317170000 +0100" stop="20250317190000 +0100" channel="mbc_action">
+    <title lang="ar">Durarara!!</title>
+    <title lang="ar">مسلسل - ﺭﺳﻮﻡ ﻣﺘﺤﺮﻛﺔ
+               (2010)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317190000 +0100" stop="20250317193000 +0100" channel="mbc_action">
+    <title lang="ar">برنامج the inside line</title>
+    <title lang="ar">07:00  مساءً
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20250317193000 +0100" stop="20250317200000 +0100" channel="mbc_action">
+    <title lang="ar">برنامج the football review</title>
+    <title lang="ar">07:30  مساءً
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20250317200000 +0100" stop="20250317210000 +0100" channel="mbc_action">
+    <title lang="ar">برنامج running wild with bear grylls</title>
+    <title lang="ar">08:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20250317210000 +0100" stop="20250317220000 +0100" channel="mbc_action">
+    <title lang="ar">برنامج top gear australia</title>
+    <title lang="ar">09:00  مساءً
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20250317220000 +0100" stop="20250317223000 +0100" channel="mbc_action">
+    <title lang="ar">Overlord</title>
+    <title lang="ar">مسلسل
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317223000 +0100" stop="20250318000000 +0100" channel="mbc_action">
+    <title lang="ar">أكشن مع وليد</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2021)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250315220000 +0100" stop="20250315230000 +0100" channel="mbc_drama">
+    <title lang="ar">أبو البنات</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250315230000 +0100" stop="20250316000000 +0100" channel="mbc_drama">
+    <title lang="ar">عمتي نوير</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316000000 +0100" stop="20250316010000 +0100" channel="mbc_drama">
+    <title lang="ar">تحت سابع أرض</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316010000 +0100" stop="20250316020000 +0100" channel="mbc_drama">
+    <title lang="ar">البطل</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316020000 +0100" stop="20250316030000 +0100" channel="mbc_drama">
+    <title lang="ar">بيت حمولة</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316030000 +0100" stop="20250316040000 +0100" channel="mbc_drama">
+    <title lang="ar">أبو البنات</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316040000 +0100" stop="20250316050000 +0100" channel="mbc_drama">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316050000 +0100" stop="20250316060000 +0100" channel="mbc_drama">
+    <title lang="ar">البطل</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316060000 +0100" stop="20250316070000 +0100" channel="mbc_drama">
+    <title lang="ar">عمتي نوير</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316070000 +0100" stop="20250316080000 +0100" channel="mbc_drama">
+    <title lang="ar">بيت حمولة</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316080000 +0100" stop="20250316090000 +0100" channel="mbc_drama">
+    <title lang="ar">أبو البنات</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316090000 +0100" stop="20250316100000 +0100" channel="mbc_drama">
+    <title lang="ar">تحت سابع أرض</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316100000 +0100" stop="20250316110000 +0100" channel="mbc_drama">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316110000 +0100" stop="20250316120000 +0100" channel="mbc_drama">
+    <title lang="ar">البطل</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316120000 +0100" stop="20250316130000 +0100" channel="mbc_drama">
+    <title lang="ar">عمتي نوير</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316130000 +0100" stop="20250316140000 +0100" channel="mbc_drama">
+    <title lang="ar">أبو البنات</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316140000 +0100" stop="20250316150000 +0100" channel="mbc_drama">
+    <title lang="ar">بيت حمولة</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316150000 +0100" stop="20250316160000 +0100" channel="mbc_drama">
+    <title lang="ar">تحت سابع أرض</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316160000 +0100" stop="20250316170000 +0100" channel="mbc_drama">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316170000 +0100" stop="20250316180000 +0100" channel="mbc_drama">
+    <title lang="ar">البطل</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316180000 +0100" stop="20250316190000 +0100" channel="mbc_drama">
+    <title lang="ar">عمتي نوير</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316190000 +0100" stop="20250316200000 +0100" channel="mbc_drama">
+    <title lang="ar">تحت سابع أرض</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316200000 +0100" stop="20250316210000 +0100" channel="mbc_drama">
+    <title lang="ar">بيت حمولة</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316210000 +0100" stop="20250316220000 +0100" channel="mbc_drama">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316220000 +0100" stop="20250316230000 +0100" channel="mbc_drama">
+    <title lang="ar">أبو البنات</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316230000 +0100" stop="20250317000000 +0100" channel="mbc_drama">
+    <title lang="ar">عمتي نوير</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317000000 +0100" stop="20250317010000 +0100" channel="mbc_drama">
+    <title lang="ar">تحت سابع أرض</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317010000 +0100" stop="20250317020000 +0100" channel="mbc_drama">
+    <title lang="ar">البطل</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317020000 +0100" stop="20250317030000 +0100" channel="mbc_drama">
+    <title lang="ar">بيت حمولة</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317030000 +0100" stop="20250317040000 +0100" channel="mbc_drama">
+    <title lang="ar">أبو البنات</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317040000 +0100" stop="20250317050000 +0100" channel="mbc_drama">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317050000 +0100" stop="20250317060000 +0100" channel="mbc_drama">
+    <title lang="ar">البطل</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317060000 +0100" stop="20250317070000 +0100" channel="mbc_drama">
+    <title lang="ar">عمتي نوير</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317070000 +0100" stop="20250317080000 +0100" channel="mbc_drama">
+    <title lang="ar">بيت حمولة</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317080000 +0100" stop="20250317090000 +0100" channel="mbc_drama">
+    <title lang="ar">أبو البنات</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317090000 +0100" stop="20250317100000 +0100" channel="mbc_drama">
+    <title lang="ar">تحت سابع أرض</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317100000 +0100" stop="20250317110000 +0100" channel="mbc_drama">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317110000 +0100" stop="20250317120000 +0100" channel="mbc_drama">
+    <title lang="ar">البطل</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317120000 +0100" stop="20250317130000 +0100" channel="mbc_drama">
+    <title lang="ar">عمتي نوير</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317130000 +0100" stop="20250317140000 +0100" channel="mbc_drama">
+    <title lang="ar">أبو البنات</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317140000 +0100" stop="20250317150000 +0100" channel="mbc_drama">
+    <title lang="ar">بيت حمولة</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317150000 +0100" stop="20250317160000 +0100" channel="mbc_drama">
+    <title lang="ar">تحت سابع أرض</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317160000 +0100" stop="20250317170000 +0100" channel="mbc_drama">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317170000 +0100" stop="20250317180000 +0100" channel="mbc_drama">
+    <title lang="ar">البطل</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317180000 +0100" stop="20250317190000 +0100" channel="mbc_drama">
+    <title lang="ar">عمتي نوير</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317190000 +0100" stop="20250317200000 +0100" channel="mbc_drama">
+    <title lang="ar">تحت سابع أرض</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317200000 +0100" stop="20250317210000 +0100" channel="mbc_drama">
+    <title lang="ar">بيت حمولة</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317210000 +0100" stop="20250317220000 +0100" channel="mbc_drama">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317220000 +0100" stop="20250317230000 +0100" channel="mbc_drama">
+    <title lang="ar">أبو البنات</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317230000 +0100" stop="20250318000000 +0100" channel="mbc_drama">
+    <title lang="ar">عمتي نوير</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250315222000 +0100" stop="20250315233000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">البطل</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250315233000 +0100" stop="20250316001500 +0100" channel="mbc_drama_plus">
+    <title lang="ar">عمتي نوير</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316001500 +0100" stop="20250316011500 +0100" channel="mbc_drama_plus">
+    <title lang="ar">أبو البنات</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316011500 +0100" stop="20250316020000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">بيت حمولة</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316020000 +0100" stop="20250316030000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">تحت سابع أرض</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316030000 +0100" stop="20250316040000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316040000 +0100" stop="20250316044500 +0100" channel="mbc_drama_plus">
+    <title lang="ar">البطل</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316044500 +0100" stop="20250316053500 +0100" channel="mbc_drama_plus">
+    <title lang="ar">عمتي نوير</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316053500 +0100" stop="20250316063000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">أبو البنات</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316063000 +0100" stop="20250316072000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">بيت حمولة</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316072000 +0100" stop="20250316081500 +0100" channel="mbc_drama_plus">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316081500 +0100" stop="20250316083000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">تحت سابع أرض</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316083000 +0100" stop="20250316091500 +0100" channel="mbc_drama_plus">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316091500 +0100" stop="20250316100000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">أبو البنات</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316100000 +0100" stop="20250316104500 +0100" channel="mbc_drama_plus">
+    <title lang="ar">البطل</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316104500 +0100" stop="20250316113000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">بيت حمولة</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316113000 +0100" stop="20250316121500 +0100" channel="mbc_drama_plus">
+    <title lang="ar">تحت سابع أرض</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316121500 +0100" stop="20250316130000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316130000 +0100" stop="20250316134500 +0100" channel="mbc_drama_plus">
+    <title lang="ar">البطل</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316134500 +0100" stop="20250316143000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">عمتي نوير</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316143000 +0100" stop="20250316151500 +0100" channel="mbc_drama_plus">
+    <title lang="ar">أبو البنات</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316151500 +0100" stop="20250316160000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">بيت حمولة</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316160000 +0100" stop="20250316164500 +0100" channel="mbc_drama_plus">
+    <title lang="ar">تحت سابع أرض</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316164500 +0100" stop="20250316173000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316173000 +0100" stop="20250316182000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">البطل</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316182000 +0100" stop="20250316190000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">عمتي نوير</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316190000 +0100" stop="20250316194500 +0100" channel="mbc_drama_plus">
+    <title lang="ar">أبو البنات</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316194500 +0100" stop="20250316203000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">بيت حمولة</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316203000 +0100" stop="20250316212500 +0100" channel="mbc_drama_plus">
+    <title lang="ar">تحت سابع أرض</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316212500 +0100" stop="20250316222000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316222000 +0100" stop="20250316233000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">البطل</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316233000 +0100" stop="20250317001500 +0100" channel="mbc_drama_plus">
+    <title lang="ar">عمتي نوير</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317001500 +0100" stop="20250317011500 +0100" channel="mbc_drama_plus">
+    <title lang="ar">أبو البنات</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317011500 +0100" stop="20250317020000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">بيت حمولة</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317020000 +0100" stop="20250317030000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">تحت سابع أرض</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317030000 +0100" stop="20250317040000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317040000 +0100" stop="20250317044500 +0100" channel="mbc_drama_plus">
+    <title lang="ar">البطل</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317044500 +0100" stop="20250317053500 +0100" channel="mbc_drama_plus">
+    <title lang="ar">عمتي نوير</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317053500 +0100" stop="20250317063000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">أبو البنات</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317063000 +0100" stop="20250317072000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">بيت حمولة</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317072000 +0100" stop="20250317081500 +0100" channel="mbc_drama_plus">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317081500 +0100" stop="20250317083000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">تحت سابع أرض</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317083000 +0100" stop="20250317091500 +0100" channel="mbc_drama_plus">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317091500 +0100" stop="20250317100000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">أبو البنات</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317100000 +0100" stop="20250317104500 +0100" channel="mbc_drama_plus">
+    <title lang="ar">البطل</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317104500 +0100" stop="20250317113000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">بيت حمولة</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317113000 +0100" stop="20250317121500 +0100" channel="mbc_drama_plus">
+    <title lang="ar">تحت سابع أرض</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317121500 +0100" stop="20250317130000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317130000 +0100" stop="20250317134500 +0100" channel="mbc_drama_plus">
+    <title lang="ar">البطل</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317134500 +0100" stop="20250317143000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">عمتي نوير</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317143000 +0100" stop="20250317151500 +0100" channel="mbc_drama_plus">
+    <title lang="ar">أبو البنات</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317151500 +0100" stop="20250317160000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">بيت حمولة</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317160000 +0100" stop="20250317164500 +0100" channel="mbc_drama_plus">
+    <title lang="ar">تحت سابع أرض</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317164500 +0100" stop="20250317173000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317173000 +0100" stop="20250317182000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">البطل</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317182000 +0100" stop="20250317190000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">عمتي نوير</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317190000 +0100" stop="20250317194500 +0100" channel="mbc_drama_plus">
+    <title lang="ar">أبو البنات</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317194500 +0100" stop="20250317203000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">بيت حمولة</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317203000 +0100" stop="20250317212500 +0100" channel="mbc_drama_plus">
+    <title lang="ar">تحت سابع أرض</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317212500 +0100" stop="20250317222000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317222000 +0100" stop="20250317233000 +0100" channel="mbc_drama_plus">
+    <title lang="ar">البطل</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317233000 +0100" stop="20250318001500 +0100" channel="mbc_drama_plus">
+    <title lang="ar">عمتي نوير</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250315220000 +0100" stop="20250315235000 +0100" channel="mbc_egypt">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250315235000 +0100" stop="20250316014000 +0100" channel="mbc_egypt">
+    <title lang="ar">سيد الناس</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316014000 +0100" stop="20250316031500 +0100" channel="mbc_egypt">
+    <title lang="ar">80 باكو</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316031500 +0100" stop="20250316041000 +0100" channel="mbc_egypt">
+    <title lang="ar">بروود كاست مع حسن عسيري</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316041000 +0100" stop="20250316050000 +0100" channel="mbc_egypt">
+    <title lang="ar">رامز إيلون مصر</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316050000 +0100" stop="20250316062000 +0100" channel="mbc_egypt">
     <title lang="ar">العتاولة 2</title>
     <title lang="ar">مسلسل
                (2025)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314231500 +0100" stop="20250315010000 +0100" channel="mbc_masr_2">
+  <programme start="20250316062000 +0100" stop="20250316073000 +0100" channel="mbc_egypt">
     <title lang="ar">المداح ج5 : أسطورة العهد</title>
     <title lang="ar">مسلسل
                (2025)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314170000 +0100" stop="20250314190000 +0100" channel="mbc_max">
-    <title lang="ar">The House with a Clock in its Walls</title>
-    <title lang="ar">فيلم
-               (2018)</title>
+  <programme start="20250316073000 +0100" stop="20250316090000 +0100" channel="mbc_egypt">
+    <title lang="ar">أشغال شقة جدا</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314190000 +0100" stop="20250314220000 +0100" channel="mbc_max">
-    <title lang="ar">The Hobbit: The Desolation of Smaug</title>
-    <title lang="ar">فيلم
-               (2013)</title>
+  <programme start="20250316090000 +0100" stop="20250316100000 +0100" channel="mbc_egypt">
+    <title lang="ar">أهلا بالستات</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2022)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314220000 +0100" stop="20250315000000 +0100" channel="mbc_max">
+  <programme start="20250316100000 +0100" stop="20250316113000 +0100" channel="mbc_egypt">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316113000 +0100" stop="20250316120000 +0100" channel="mbc_egypt">
+    <title lang="ar">العتاولة 2</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316120000 +0100" stop="20250316130000 +0100" channel="mbc_egypt">
+    <title lang="ar">أهلا بالستات</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2022)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316130000 +0100" stop="20250316141500 +0100" channel="mbc_egypt">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316141500 +0100" stop="20250316155000 +0100" channel="mbc_egypt">
+    <title lang="ar">سيد الناس</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316155000 +0100" stop="20250316170000 +0100" channel="mbc_egypt">
+    <title lang="ar">بروود كاست مع حسن عسيري</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316170000 +0100" stop="20250316180000 +0100" channel="mbc_egypt">
+    <title lang="ar">رامز إيلون مصر</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316180000 +0100" stop="20250316193000 +0100" channel="mbc_egypt">
+    <title lang="ar">العتاولة 2</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316193000 +0100" stop="20250316204500 +0100" channel="mbc_egypt">
+    <title lang="ar">المداح ج5 : أسطورة العهد</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316204500 +0100" stop="20250316220000 +0100" channel="mbc_egypt">
+    <title lang="ar">أشغال شقة جدا</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316220000 +0100" stop="20250316235000 +0100" channel="mbc_egypt">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316235000 +0100" stop="20250317014000 +0100" channel="mbc_egypt">
+    <title lang="ar">سيد الناس</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317014000 +0100" stop="20250317031500 +0100" channel="mbc_egypt">
+    <title lang="ar">80 باكو</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317031500 +0100" stop="20250317041000 +0100" channel="mbc_egypt">
+    <title lang="ar">بروود كاست مع حسن عسيري</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317041000 +0100" stop="20250317050000 +0100" channel="mbc_egypt">
+    <title lang="ar">رامز إيلون مصر</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317050000 +0100" stop="20250317062000 +0100" channel="mbc_egypt">
+    <title lang="ar">العتاولة 2</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317062000 +0100" stop="20250317073000 +0100" channel="mbc_egypt">
+    <title lang="ar">المداح ج5 : أسطورة العهد</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317073000 +0100" stop="20250317090000 +0100" channel="mbc_egypt">
+    <title lang="ar">أشغال شقة جدا</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317090000 +0100" stop="20250317100000 +0100" channel="mbc_egypt">
+    <title lang="ar">أهلا بالستات</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2022)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317100000 +0100" stop="20250317113000 +0100" channel="mbc_egypt">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317113000 +0100" stop="20250317120000 +0100" channel="mbc_egypt">
+    <title lang="ar">العتاولة 2</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317120000 +0100" stop="20250317130000 +0100" channel="mbc_egypt">
+    <title lang="ar">أهلا بالستات</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2022)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317130000 +0100" stop="20250317141500 +0100" channel="mbc_egypt">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317141500 +0100" stop="20250317155000 +0100" channel="mbc_egypt">
+    <title lang="ar">سيد الناس</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317155000 +0100" stop="20250317170000 +0100" channel="mbc_egypt">
+    <title lang="ar">بروود كاست مع حسن عسيري</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317170000 +0100" stop="20250317180000 +0100" channel="mbc_egypt">
+    <title lang="ar">رامز إيلون مصر</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317180000 +0100" stop="20250317193000 +0100" channel="mbc_egypt">
+    <title lang="ar">العتاولة 2</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317193000 +0100" stop="20250317204500 +0100" channel="mbc_egypt">
+    <title lang="ar">المداح ج5 : أسطورة العهد</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317204500 +0100" stop="20250317220000 +0100" channel="mbc_egypt">
+    <title lang="ar">أشغال شقة جدا</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317220000 +0100" stop="20250317235000 +0100" channel="mbc_egypt">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317235000 +0100" stop="20250318014000 +0100" channel="mbc_egypt">
+    <title lang="ar">سيد الناس</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250315220000 +0100" stop="20250315231500 +0100" channel="mbc_masr_2">
+    <title lang="ar">العتاولة 2</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250315231500 +0100" stop="20250316010000 +0100" channel="mbc_masr_2">
+    <title lang="ar">المداح ج5 : أسطورة العهد</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316010000 +0100" stop="20250316023000 +0100" channel="mbc_masr_2">
+    <title lang="ar">أشغال شقة جدا</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316023000 +0100" stop="20250316040000 +0100" channel="mbc_masr_2">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316040000 +0100" stop="20250316055000 +0100" channel="mbc_masr_2">
+    <title lang="ar">سيد الناس</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316055000 +0100" stop="20250316070000 +0100" channel="mbc_masr_2">
+    <title lang="ar">80 باكو</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316070000 +0100" stop="20250316074500 +0100" channel="mbc_masr_2">
+    <title lang="ar">معاوية</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316074500 +0100" stop="20250316093000 +0100" channel="mbc_masr_2">
+    <title lang="ar">العتاولة 2</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316093000 +0100" stop="20250316102000 +0100" channel="mbc_masr_2">
+    <title lang="ar">معاوية</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316102000 +0100" stop="20250316113000 +0100" channel="mbc_masr_2">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316113000 +0100" stop="20250316121500 +0100" channel="mbc_masr_2">
+    <title lang="ar">سيد الناس</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316121500 +0100" stop="20250316130000 +0100" channel="mbc_masr_2">
+    <title lang="ar">صباحك مصري</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2014)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316130000 +0100" stop="20250316133000 +0100" channel="mbc_masr_2">
+    <title lang="ar">برنامج من القلب للقلب</title>
+    <title lang="ar">01:00  مساءً
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20250316133000 +0100" stop="20250316150000 +0100" channel="mbc_masr_2">
+    <title lang="ar">المداح ج5 : أسطورة العهد</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316150000 +0100" stop="20250316170000 +0100" channel="mbc_masr_2">
+    <title lang="ar">أشغال شقة جدا</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316170000 +0100" stop="20250316184000 +0100" channel="mbc_masr_2">
+    <title lang="ar">سيد الناس</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316184000 +0100" stop="20250316201500 +0100" channel="mbc_masr_2">
+    <title lang="ar">80 باكو</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316201500 +0100" stop="20250316210000 +0100" channel="mbc_masr_2">
+    <title lang="ar">بروود كاست مع حسن عسيري</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316210000 +0100" stop="20250316220000 +0100" channel="mbc_masr_2">
+    <title lang="ar">معاوية</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316220000 +0100" stop="20250316231500 +0100" channel="mbc_masr_2">
+    <title lang="ar">العتاولة 2</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316231500 +0100" stop="20250317010000 +0100" channel="mbc_masr_2">
+    <title lang="ar">المداح ج5 : أسطورة العهد</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317010000 +0100" stop="20250317023000 +0100" channel="mbc_masr_2">
+    <title lang="ar">أشغال شقة جدا</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317023000 +0100" stop="20250317040000 +0100" channel="mbc_masr_2">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317040000 +0100" stop="20250317055000 +0100" channel="mbc_masr_2">
+    <title lang="ar">سيد الناس</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317055000 +0100" stop="20250317070000 +0100" channel="mbc_masr_2">
+    <title lang="ar">80 باكو</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317070000 +0100" stop="20250317074500 +0100" channel="mbc_masr_2">
+    <title lang="ar">معاوية</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317074500 +0100" stop="20250317093000 +0100" channel="mbc_masr_2">
+    <title lang="ar">العتاولة 2</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317093000 +0100" stop="20250317102000 +0100" channel="mbc_masr_2">
+    <title lang="ar">معاوية</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317102000 +0100" stop="20250317113000 +0100" channel="mbc_masr_2">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317113000 +0100" stop="20250317121500 +0100" channel="mbc_masr_2">
+    <title lang="ar">سيد الناس</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317121500 +0100" stop="20250317130000 +0100" channel="mbc_masr_2">
+    <title lang="ar">صباحك مصري</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2014)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317133000 +0100" stop="20250317150000 +0100" channel="mbc_masr_2">
+    <title lang="ar">المداح ج5 : أسطورة العهد</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317150000 +0100" stop="20250317170000 +0100" channel="mbc_masr_2">
+    <title lang="ar">أشغال شقة جدا</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317170000 +0100" stop="20250317184000 +0100" channel="mbc_masr_2">
+    <title lang="ar">سيد الناس</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317184000 +0100" stop="20250317201500 +0100" channel="mbc_masr_2">
+    <title lang="ar">80 باكو</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317201500 +0100" stop="20250317210000 +0100" channel="mbc_masr_2">
+    <title lang="ar">بروود كاست مع حسن عسيري</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317210000 +0100" stop="20250317220000 +0100" channel="mbc_masr_2">
+    <title lang="ar">معاوية</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317220000 +0100" stop="20250317231500 +0100" channel="mbc_masr_2">
+    <title lang="ar">العتاولة 2</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317231500 +0100" stop="20250318010000 +0100" channel="mbc_masr_2">
+    <title lang="ar">المداح ج5 : أسطورة العهد</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250315220000 +0100" stop="20250316000000 +0100" channel="mbc_max">
     <title lang="ar">A Monster Calls</title>
     <title lang="ar">فيلم
                (2016)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314170000 +0100" stop="20250314180000 +0100" channel="rotana_drama">
-    <title lang="ar">نسمات أيلول</title>
-    <title lang="ar">مسلسل
-               (2025)</title>
+  <programme start="20250316000000 +0100" stop="20250316023000 +0100" channel="mbc_max">
+    <title lang="ar">Angel Has Fallen</title>
+    <title lang="ar">فيلم
+               (2019)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314180000 +0100" stop="20250314190000 +0100" channel="rotana_drama">
-    <title lang="ar">أثينا</title>
-    <title lang="ar">مسلسل
-               (2025)</title>
+  <programme start="20250316023000 +0100" stop="20250316050000 +0100" channel="mbc_max">
+    <title lang="ar">The Heat</title>
+    <title lang="ar">فيلم
+               (2013)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314190000 +0100" stop="20250314200000 +0100" channel="rotana_drama">
-    <title lang="ar">هم يضحك</title>
-    <title lang="ar">مسلسل
-               (2025)</title>
+  <programme start="20250316050000 +0100" stop="20250316070000 +0100" channel="mbc_max">
+    <title lang="ar">Knight and Day</title>
+    <title lang="ar">فيلم
+               (2010)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314200000 +0100" stop="20250314210000 +0100" channel="rotana_drama">
-    <title lang="ar">أهل الخطايا</title>
-    <title lang="ar">مسلسل
-               (2025)</title>
+  <programme start="20250316070000 +0100" stop="20250316093000 +0100" channel="mbc_max">
+    <title lang="ar">The Hobbit: The Desolation of Smaug</title>
+    <title lang="ar">فيلم
+               (2013)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314210000 +0100" stop="20250314220000 +0100" channel="rotana_drama">
-    <title lang="ar">سدف</title>
-    <title lang="ar">مسلسل
-               (2025)</title>
+  <programme start="20250316093000 +0100" stop="20250316113000 +0100" channel="mbc_max">
+    <title lang="ar">The House with a Clock in its Walls</title>
+    <title lang="ar">فيلم
+               (2018)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314220000 +0100" stop="20250314230000 +0100" channel="rotana_drama">
+  <programme start="20250316113000 +0100" stop="20250316133000 +0100" channel="mbc_max">
+    <title lang="ar">A Monster Calls</title>
+    <title lang="ar">فيلم
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316133000 +0100" stop="20250316153000 +0100" channel="mbc_max">
+    <title lang="ar">Timecop</title>
+    <title lang="ar">فيلم
+               (1994)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316153000 +0100" stop="20250316180000 +0100" channel="mbc_max">
+    <title lang="ar">Divergent</title>
+    <title lang="ar">فيلم
+               (2014)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316180000 +0100" stop="20250316200000 +0100" channel="mbc_max">
+    <title lang="ar">The Divergent Series: Insurgent</title>
+    <title lang="ar">فيلم
+               (2015)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316200000 +0100" stop="20250316220000 +0100" channel="mbc_max">
+    <title lang="ar">Allegiant</title>
+    <title lang="ar">فيلم
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316220000 +0100" stop="20250317003000 +0100" channel="mbc_max">
+    <title lang="ar">Bloodshot</title>
+    <title lang="ar">فيلم
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317003000 +0100" stop="20250317033000 +0100" channel="mbc_max">
+    <title lang="ar">The Hobbit: The Desolation of Smaug</title>
+    <title lang="ar">فيلم
+               (2013)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317033000 +0100" stop="20250317060000 +0100" channel="mbc_max">
+    <title lang="ar">Mirror Mirror</title>
+    <title lang="ar">فيلم
+               (2012)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317060000 +0100" stop="20250317073000 +0100" channel="mbc_max">
+    <title lang="ar">Spirit Untamed</title>
+    <title lang="ar">فيلم - ﺭﺳﻮﻡ ﻣﺘﺤﺮﻛﺔ
+               (2021)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317073000 +0100" stop="20250317100000 +0100" channel="mbc_max">
+    <title lang="ar">Divergent</title>
+    <title lang="ar">فيلم
+               (2014)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317100000 +0100" stop="20250317120000 +0100" channel="mbc_max">
+    <title lang="ar">Mother's Day</title>
+    <title lang="ar">فيلم
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317120000 +0100" stop="20250317140000 +0100" channel="mbc_max">
+    <title lang="ar">Bloodshot</title>
+    <title lang="ar">فيلم
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317140000 +0100" stop="20250317160000 +0100" channel="mbc_max">
+    <title lang="ar">Before We Go</title>
+    <title lang="ar">فيلم
+               (2014)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317160000 +0100" stop="20250317180000 +0100" channel="mbc_max">
+    <title lang="ar">Words on Bathroom Walls</title>
+    <title lang="ar">فيلم
+               (2020)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317180000 +0100" stop="20250317200000 +0100" channel="mbc_max">
+    <title lang="ar">Friends with Kids</title>
+    <title lang="ar">فيلم
+               (2012)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317200000 +0100" stop="20250317220000 +0100" channel="mbc_max">
+    <title lang="ar">Loving</title>
+    <title lang="ar">فيلم
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317220000 +0100" stop="20250318000000 +0100" channel="mbc_max">
+    <title lang="ar">The Words</title>
+    <title lang="ar">فيلم
+               (2012)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250315220000 +0100" stop="20250315230000 +0100" channel="rotana_drama">
     <title lang="ar">جوما</title>
     <title lang="ar">مسلسل
                (2025)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314230000 +0100" stop="20250315000000 +0100" channel="rotana_drama">
+  <programme start="20250315230000 +0100" stop="20250316000000 +0100" channel="rotana_drama">
     <title lang="ar">واحة الأعرابي</title>
     <title lang="ar">مسلسل
                (2025)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314170000 +0100" stop="20250314183000 +0100" channel="on_drama">
-    <title lang="ar">عقبال عندكوا</title>
+  <programme start="20250316000000 +0100" stop="20250316010000 +0100" channel="rotana_drama">
+    <title lang="ar">الحلانجي</title>
     <title lang="ar">مسلسل
                (2025)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314183000 +0100" stop="20250314200000 +0100" channel="on_drama">
-    <title lang="ar">كامل العدد ++</title>
+  <programme start="20250316010000 +0100" stop="20250316020000 +0100" channel="rotana_drama">
+    <title lang="ar">نسمات أيلول</title>
     <title lang="ar">مسلسل
                (2025)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314200000 +0100" stop="20250314213000 +0100" channel="on_drama">
-    <title lang="ar">قلبي ومفتاحه</title>
+  <programme start="20250316020000 +0100" stop="20250316030000 +0100" channel="rotana_drama">
+    <title lang="ar">أثينا</title>
     <title lang="ar">مسلسل
                (2025)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314213000 +0100" stop="20250314230000 +0100" channel="on_drama">
+  <programme start="20250316030000 +0100" stop="20250316040000 +0100" channel="rotana_drama">
+    <title lang="ar">هم يضحك</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316040000 +0100" stop="20250316050000 +0100" channel="rotana_drama">
+    <title lang="ar">أهل الخطايا</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316050000 +0100" stop="20250316060000 +0100" channel="rotana_drama">
+    <title lang="ar">سدف</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316060000 +0100" stop="20250316070000 +0100" channel="rotana_drama">
+    <title lang="ar">جوما</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316070000 +0100" stop="20250316080000 +0100" channel="rotana_drama">
+    <title lang="ar">واحة الأعرابي</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316080000 +0100" stop="20250316090000 +0100" channel="rotana_drama">
+    <title lang="ar">الحلانجي</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316090000 +0100" stop="20250316100000 +0100" channel="rotana_drama">
+    <title lang="ar">نسمات أيلول</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316100000 +0100" stop="20250316110000 +0100" channel="rotana_drama">
+    <title lang="ar">أثينا</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316110000 +0100" stop="20250316120000 +0100" channel="rotana_drama">
+    <title lang="ar">هم يضحك</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316120000 +0100" stop="20250316130000 +0100" channel="rotana_drama">
+    <title lang="ar">جوما</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316130000 +0100" stop="20250316140000 +0100" channel="rotana_drama">
+    <title lang="ar">سدف</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316140000 +0100" stop="20250316150000 +0100" channel="rotana_drama">
+    <title lang="ar">جوما</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316150000 +0100" stop="20250316160000 +0100" channel="rotana_drama">
+    <title lang="ar">واحة الأعرابي</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316160000 +0100" stop="20250316170000 +0100" channel="rotana_drama">
+    <title lang="ar">الحلانجي</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316170000 +0100" stop="20250316180000 +0100" channel="rotana_drama">
+    <title lang="ar">نسمات أيلول</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316180000 +0100" stop="20250316190000 +0100" channel="rotana_drama">
+    <title lang="ar">أثينا</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316190000 +0100" stop="20250316200000 +0100" channel="rotana_drama">
+    <title lang="ar">هم يضحك</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316200000 +0100" stop="20250316210000 +0100" channel="rotana_drama">
+    <title lang="ar">أهل الخطايا</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316210000 +0100" stop="20250316220000 +0100" channel="rotana_drama">
+    <title lang="ar">سدف</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316220000 +0100" stop="20250316230000 +0100" channel="rotana_drama">
+    <title lang="ar">جوما</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316230000 +0100" stop="20250317000000 +0100" channel="rotana_drama">
+    <title lang="ar">واحة الأعرابي</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317000000 +0100" stop="20250317010000 +0100" channel="rotana_drama">
+    <title lang="ar">الحلانجي</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317010000 +0100" stop="20250317020000 +0100" channel="rotana_drama">
+    <title lang="ar">نسمات أيلول</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317020000 +0100" stop="20250317030000 +0100" channel="rotana_drama">
+    <title lang="ar">أثينا</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317030000 +0100" stop="20250317040000 +0100" channel="rotana_drama">
+    <title lang="ar">هم يضحك</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317040000 +0100" stop="20250317050000 +0100" channel="rotana_drama">
+    <title lang="ar">أهل الخطايا</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317050000 +0100" stop="20250317060000 +0100" channel="rotana_drama">
+    <title lang="ar">سدف</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317060000 +0100" stop="20250317070000 +0100" channel="rotana_drama">
+    <title lang="ar">جوما</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317070000 +0100" stop="20250317080000 +0100" channel="rotana_drama">
+    <title lang="ar">واحة الأعرابي</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317080000 +0100" stop="20250317090000 +0100" channel="rotana_drama">
+    <title lang="ar">الحلانجي</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317090000 +0100" stop="20250317100000 +0100" channel="rotana_drama">
+    <title lang="ar">نسمات أيلول</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317100000 +0100" stop="20250317110000 +0100" channel="rotana_drama">
+    <title lang="ar">أثينا</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317110000 +0100" stop="20250317120000 +0100" channel="rotana_drama">
+    <title lang="ar">هم يضحك</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317120000 +0100" stop="20250317130000 +0100" channel="rotana_drama">
+    <title lang="ar">جوما</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317130000 +0100" stop="20250317140000 +0100" channel="rotana_drama">
+    <title lang="ar">سدف</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317140000 +0100" stop="20250317150000 +0100" channel="rotana_drama">
+    <title lang="ar">جوما</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317150000 +0100" stop="20250317160000 +0100" channel="rotana_drama">
+    <title lang="ar">واحة الأعرابي</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317160000 +0100" stop="20250317170000 +0100" channel="rotana_drama">
+    <title lang="ar">الحلانجي</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317170000 +0100" stop="20250317180000 +0100" channel="rotana_drama">
+    <title lang="ar">نسمات أيلول</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317180000 +0100" stop="20250317190000 +0100" channel="rotana_drama">
+    <title lang="ar">أثينا</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317190000 +0100" stop="20250317200000 +0100" channel="rotana_drama">
+    <title lang="ar">هم يضحك</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317200000 +0100" stop="20250317210000 +0100" channel="rotana_drama">
+    <title lang="ar">أهل الخطايا</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317210000 +0100" stop="20250317220000 +0100" channel="rotana_drama">
+    <title lang="ar">سدف</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317220000 +0100" stop="20250317230000 +0100" channel="rotana_drama">
+    <title lang="ar">جوما</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317230000 +0100" stop="20250318000000 +0100" channel="rotana_drama">
+    <title lang="ar">واحة الأعرابي</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250315213000 +0100" stop="20250315230000 +0100" channel="on_drama">
     <title lang="ar">النص</title>
     <title lang="ar">مسلسل
                (2025)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314230000 +0100" stop="20250315003000 +0100" channel="on_drama">
+  <programme start="20250315230000 +0100" stop="20250316003000 +0100" channel="on_drama">
     <title lang="ar">فهد البطل</title>
     <title lang="ar">مسلسل
                (2025)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314170000 +0100" stop="20250314181500 +0100" channel="on_e">
-    <title lang="ar">كامل العدد ++</title>
-    <title lang="ar">مسلسل
-               (2025)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250314181500 +0100" stop="20250314193000 +0100" channel="on_e">
-    <title lang="ar">النص</title>
-    <title lang="ar">مسلسل
-               (2025)</title>
-    <title lang="ar">مفضل
-            ذكرني</title>
-  </programme>
-  <programme start="20250314193000 +0100" stop="20250314204500 +0100" channel="on_e">
+  <programme start="20250316003000 +0100" stop="20250316020000 +0100" channel="on_drama">
     <title lang="ar">ولاد الشمس</title>
     <title lang="ar">مسلسل
                (2025)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314204500 +0100" stop="20250314220000 +0100" channel="on_e">
-    <title lang="ar">فهد البطل</title>
+  <programme start="20250316020000 +0100" stop="20250316033000 +0100" channel="on_drama">
+    <title lang="ar">كامل العدد ++</title>
     <title lang="ar">مسلسل
                (2025)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314220000 +0100" stop="20250314231500 +0100" channel="on_e">
+  <programme start="20250316033000 +0100" stop="20250316050000 +0100" channel="on_drama">
+    <title lang="ar">عقبال عندكوا</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316050000 +0100" stop="20250316063000 +0100" channel="on_drama">
     <title lang="ar">قلبي ومفتاحه</title>
     <title lang="ar">مسلسل
                (2025)</title>
     <title lang="ar">مفضل
             ذكرني</title>
   </programme>
-  <programme start="20250314231500 +0100" stop="20250315003000 +0100" channel="on_e">
+  <programme start="20250316063000 +0100" stop="20250316080000 +0100" channel="on_drama">
+    <title lang="ar">النص</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316080000 +0100" stop="20250316093000 +0100" channel="on_drama">
+    <title lang="ar">كامل العدد ++</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316093000 +0100" stop="20250316110000 +0100" channel="on_drama">
+    <title lang="ar">ولاد الشمس</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316110000 +0100" stop="20250316123000 +0100" channel="on_drama">
+    <title lang="ar">فهد البطل</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316123000 +0100" stop="20250316140000 +0100" channel="on_drama">
+    <title lang="ar">عقبال عندكوا</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316140000 +0100" stop="20250316153000 +0100" channel="on_drama">
+    <title lang="ar">النص</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316153000 +0100" stop="20250316170000 +0100" channel="on_drama">
+    <title lang="ar">فهد البطل</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316170000 +0100" stop="20250316183000 +0100" channel="on_drama">
+    <title lang="ar">عقبال عندكوا</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316183000 +0100" stop="20250316200000 +0100" channel="on_drama">
+    <title lang="ar">كامل العدد ++</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316200000 +0100" stop="20250316213000 +0100" channel="on_drama">
+    <title lang="ar">قلبي ومفتاحه</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316213000 +0100" stop="20250316230000 +0100" channel="on_drama">
+    <title lang="ar">النص</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316230000 +0100" stop="20250317003000 +0100" channel="on_drama">
+    <title lang="ar">فهد البطل</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317003000 +0100" stop="20250317020000 +0100" channel="on_drama">
+    <title lang="ar">ولاد الشمس</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317020000 +0100" stop="20250317033000 +0100" channel="on_drama">
+    <title lang="ar">كامل العدد ++</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317033000 +0100" stop="20250317050000 +0100" channel="on_drama">
+    <title lang="ar">عقبال عندكوا</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317050000 +0100" stop="20250317063000 +0100" channel="on_drama">
+    <title lang="ar">قلبي ومفتاحه</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317063000 +0100" stop="20250317080000 +0100" channel="on_drama">
+    <title lang="ar">النص</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317080000 +0100" stop="20250317093000 +0100" channel="on_drama">
+    <title lang="ar">كامل العدد ++</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317093000 +0100" stop="20250317110000 +0100" channel="on_drama">
+    <title lang="ar">ولاد الشمس</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317110000 +0100" stop="20250317123000 +0100" channel="on_drama">
+    <title lang="ar">فهد البطل</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317123000 +0100" stop="20250317140000 +0100" channel="on_drama">
+    <title lang="ar">عقبال عندكوا</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317140000 +0100" stop="20250317153000 +0100" channel="on_drama">
+    <title lang="ar">النص</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317153000 +0100" stop="20250317170000 +0100" channel="on_drama">
+    <title lang="ar">فهد البطل</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317170000 +0100" stop="20250317183000 +0100" channel="on_drama">
+    <title lang="ar">عقبال عندكوا</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317183000 +0100" stop="20250317200000 +0100" channel="on_drama">
+    <title lang="ar">كامل العدد ++</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317200000 +0100" stop="20250317213000 +0100" channel="on_drama">
+    <title lang="ar">قلبي ومفتاحه</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317213000 +0100" stop="20250317230000 +0100" channel="on_drama">
+    <title lang="ar">النص</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317230000 +0100" stop="20250318003000 +0100" channel="on_drama">
+    <title lang="ar">فهد البطل</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250315220000 +0100" stop="20250315231500 +0100" channel="on_e">
+    <title lang="ar">قلبي ومفتاحه</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250315231500 +0100" stop="20250316003000 +0100" channel="on_e">
+    <title lang="ar">عقبال عندكوا</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316003000 +0100" stop="20250316014500 +0100" channel="on_e">
+    <title lang="ar">كامل العدد ++</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316014500 +0100" stop="20250316030000 +0100" channel="on_e">
+    <title lang="ar">النص</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316030000 +0100" stop="20250316043000 +0100" channel="on_e">
+    <title lang="ar">برنامج نفوس</title>
+    <title lang="ar">03:00  صباحًا
+              [90 دقيقة]</title>
+  </programme>
+  <programme start="20250316043000 +0100" stop="20250316054500 +0100" channel="on_e">
+    <title lang="ar">ولاد الشمس</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316054500 +0100" stop="20250316070000 +0100" channel="on_e">
+    <title lang="ar">فهد البطل</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316070000 +0100" stop="20250316081500 +0100" channel="on_e">
+    <title lang="ar">قلبي ومفتاحه</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316081500 +0100" stop="20250316093000 +0100" channel="on_e">
+    <title lang="ar">عقبال عندكوا</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316093000 +0100" stop="20250316110000 +0100" channel="on_e">
+    <title lang="ar">النص</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316110000 +0100" stop="20250316113000 +0100" channel="on_e">
+    <title lang="ar">برنامج نفوس</title>
+    <title lang="ar">11:00  صباحًا
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20250316113000 +0100" stop="20250316123000 +0100" channel="on_e">
+    <title lang="ar">برنامج أحلى أكلة</title>
+    <title lang="ar">11:30  صباحًا
+              [60 دقيقة]</title>
+  </programme>
+  <programme start="20250316123000 +0100" stop="20250316140000 +0100" channel="on_e">
+    <title lang="ar">كامل العدد ++</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316140000 +0100" stop="20250316143000 +0100" channel="on_e">
+    <title lang="ar">الإمام الطيب</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316143000 +0100" stop="20250316161500 +0100" channel="on_e">
+    <title lang="ar">ولاد الشمس</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316161500 +0100" stop="20250316170000 +0100" channel="on_e">
+    <title lang="ar">برنامج نفوس</title>
+    <title lang="ar">04:15  مساءً
+              [45 دقيقة]</title>
+  </programme>
+  <programme start="20250316170000 +0100" stop="20250316181500 +0100" channel="on_e">
+    <title lang="ar">كامل العدد ++</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316181500 +0100" stop="20250316193000 +0100" channel="on_e">
+    <title lang="ar">النص</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316193000 +0100" stop="20250316204500 +0100" channel="on_e">
+    <title lang="ar">ولاد الشمس</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316204500 +0100" stop="20250316220000 +0100" channel="on_e">
+    <title lang="ar">فهد البطل</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316220000 +0100" stop="20250316231500 +0100" channel="on_e">
+    <title lang="ar">قلبي ومفتاحه</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250316231500 +0100" stop="20250317003000 +0100" channel="on_e">
+    <title lang="ar">عقبال عندكوا</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317003000 +0100" stop="20250317014500 +0100" channel="on_e">
+    <title lang="ar">كامل العدد ++</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317014500 +0100" stop="20250317030000 +0100" channel="on_e">
+    <title lang="ar">النص</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317043000 +0100" stop="20250317054500 +0100" channel="on_e">
+    <title lang="ar">ولاد الشمس</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317054500 +0100" stop="20250317070000 +0100" channel="on_e">
+    <title lang="ar">فهد البطل</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317070000 +0100" stop="20250317081500 +0100" channel="on_e">
+    <title lang="ar">قلبي ومفتاحه</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317081500 +0100" stop="20250317093000 +0100" channel="on_e">
+    <title lang="ar">عقبال عندكوا</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317093000 +0100" stop="20250317110000 +0100" channel="on_e">
+    <title lang="ar">النص</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317123000 +0100" stop="20250317140000 +0100" channel="on_e">
+    <title lang="ar">كامل العدد ++</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317140000 +0100" stop="20250317143000 +0100" channel="on_e">
+    <title lang="ar">الإمام الطيب</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2016)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317143000 +0100" stop="20250317161500 +0100" channel="on_e">
+    <title lang="ar">ولاد الشمس</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317170000 +0100" stop="20250317181500 +0100" channel="on_e">
+    <title lang="ar">كامل العدد ++</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317181500 +0100" stop="20250317193000 +0100" channel="on_e">
+    <title lang="ar">النص</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317193000 +0100" stop="20250317204500 +0100" channel="on_e">
+    <title lang="ar">ولاد الشمس</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317204500 +0100" stop="20250317220000 +0100" channel="on_e">
+    <title lang="ar">فهد البطل</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317220000 +0100" stop="20250317231500 +0100" channel="on_e">
+    <title lang="ar">قلبي ومفتاحه</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250317231500 +0100" stop="20250318003000 +0100" channel="on_e">
     <title lang="ar">عقبال عندكوا</title>
     <title lang="ar">مسلسل
                (2025)</title>

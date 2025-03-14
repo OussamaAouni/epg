@@ -1,5 +1,5 @@
 #!/bin/sh
-cd F:\iptv\epg
+cd F:/iptv/epg
 git add .
 timestamp() {
   date +"at %H:%M:%S on %d/%m/%Y"

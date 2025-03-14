@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="mbc_1_hd">
+    <display-name lang="ar">MBC 1 HD</display-name>
+    <url>http://www.tv.mobily.com.sa_ar</url>
+  </channel>
+  <channel id="mbc_2">
+    <display-name lang="ar">MBC 2</display-name>
+    <url>http://www.tv.mobily.com.sa_ar</url>
+  </channel>
+  <channel id="mbc_2_hd">
+    <display-name lang="ar">MBC 2 HD</display-name>
+    <url>http://www.tv.mobily.com.sa_ar</url>
+  </channel>
+  <channel id="mbc_4_hd">
+    <display-name lang="ar">MBC 4 HD</display-name>
+    <url>http://www.tv.mobily.com.sa_ar</url>
+  </channel>
+  <channel id="mbc_action">
+    <display-name lang="ar">MBC Action</display-name>
+    <url>http://www.tv.mobily.com.sa_ar</url>
+  </channel>
+  <channel id="mbc_drama_hd">
+    <display-name lang="ar">MBC Drama HD</display-name>
+    <url>http://www.tv.mobily.com.sa_ar</url>
+  </channel>
+  <channel id="mbc_maser">
+    <display-name lang="ar">MBC Maser</display-name>
+    <url>http://www.tv.mobily.com.sa_ar</url>
+  </channel>
+  <channel id="mbc_maser_2">
+    <display-name lang="ar">MBC Maser 2</display-name>
+    <url>http://www.tv.mobily.com.sa_ar</url>
+  </channel>
+</tv>

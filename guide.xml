@@ -1,35 +1,297 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="mbc_1_hd">
-    <display-name lang="ar">MBC 1 HD</display-name>
-    <url>http://www.tv.mobily.com.sa_ar</url>
+  <channel id="mbc">
+    <display-name lang="en">MBC</display-name>
+    <url>http://www.elcinema.com</url>
   </channel>
-  <channel id="mbc_2">
-    <display-name lang="ar">MBC 2</display-name>
-    <url>http://www.tv.mobily.com.sa_ar</url>
+  <channel id="mbc_4">
+    <display-name lang="en">MBC 4</display-name>
+    <url>http://www.elcinema.com</url>
   </channel>
-  <channel id="mbc_2_hd">
-    <display-name lang="ar">MBC 2 HD</display-name>
-    <url>http://www.tv.mobily.com.sa_ar</url>
+  <channel id="mbc_5">
+    <display-name lang="en">MBC 5</display-name>
+    <url>http://www.elcinema.com</url>
   </channel>
-  <channel id="mbc_4_hd">
-    <display-name lang="ar">MBC 4 HD</display-name>
-    <url>http://www.tv.mobily.com.sa_ar</url>
+  <channel id="mbc_drama">
+    <display-name lang="ar">MBC Drama</display-name>
+    <url>http://www.elcinema.com</url>
   </channel>
-  <channel id="mbc_ac">
-    <display-name lang="ar">MBC Action</display-name>
-    <url>http://www.tv.mobily.com.sa_ar</url>
+  <channel id="mbc_drama_plus">
+    <display-name lang="ar">MBC Drama +</display-name>
+    <url>http://www.elcinema.com</url>
   </channel>
-  <channel id="mbc_drama_hd">
-    <display-name lang="ar">MBC Drama HD</display-name>
-    <url>http://www.tv.mobily.com.sa_ar</url>
+  <channel id="mbc_egypt">
+    <display-name lang="ar">MBC Egypt</display-name>
+    <url>http://www.elcinema.com</url>
   </channel>
-  <channel id="mbc_maser">
-    <display-name lang="ar">MBC Maser</display-name>
-    <url>http://www.tv.mobily.com.sa_ar</url>
+  <channel id="mbc_masr_2">
+    <display-name lang="ar">MBC MASR 2</display-name>
+    <url>http://www.elcinema.com</url>
   </channel>
-  <channel id="mbc_maser_2">
-    <display-name lang="ar">MBC Maser 2</display-name>
-    <url>http://www.tv.mobily.com.sa_ar</url>
-  </channel>
+  <programme start="20250314140000 +0200" stop="20250314150000 +0200" channel="mbc_drama">
+    <title lang="ar">بيت حمولة</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314150000 +0200" stop="20250314160000 +0200" channel="mbc_drama">
+    <title lang="ar">تحت سابع أرض</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314160000 +0200" stop="20250314170000 +0200" channel="mbc_drama">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314170000 +0200" stop="20250314180000 +0200" channel="mbc_drama">
+    <title lang="ar">البطل</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314180000 +0200" stop="20250314190000 +0200" channel="mbc_drama">
+    <title lang="ar">عمتي نوير</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314190000 +0200" stop="20250314200000 +0200" channel="mbc_drama">
+    <title lang="ar">تحت سابع أرض</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314200000 +0200" stop="20250314210000 +0200" channel="mbc_drama">
+    <title lang="ar">بيت حمولة</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314210000 +0200" stop="20250314220000 +0200" channel="mbc_drama">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314220000 +0200" stop="20250314230000 +0200" channel="mbc_drama">
+    <title lang="ar">أبو البنات</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314230000 +0200" stop="20250315000000 +0200" channel="mbc_drama">
+    <title lang="ar">عمتي نوير</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314143000 +0200" stop="20250314151500 +0200" channel="mbc_drama_plus">
+    <title lang="ar">أبو البنات</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314151500 +0200" stop="20250314160000 +0200" channel="mbc_drama_plus">
+    <title lang="ar">بيت حمولة</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314160000 +0200" stop="20250314164500 +0200" channel="mbc_drama_plus">
+    <title lang="ar">تحت سابع أرض</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314164500 +0200" stop="20250314173000 +0200" channel="mbc_drama_plus">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314173000 +0200" stop="20250314182000 +0200" channel="mbc_drama_plus">
+    <title lang="ar">البطل</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314182000 +0200" stop="20250314190000 +0200" channel="mbc_drama_plus">
+    <title lang="ar">عمتي نوير</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314190000 +0200" stop="20250314194500 +0200" channel="mbc_drama_plus">
+    <title lang="ar">أبو البنات</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314194500 +0200" stop="20250314203000 +0200" channel="mbc_drama_plus">
+    <title lang="ar">بيت حمولة</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314203000 +0200" stop="20250314212500 +0200" channel="mbc_drama_plus">
+    <title lang="ar">تحت سابع أرض</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314212500 +0200" stop="20250314222000 +0200" channel="mbc_drama_plus">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314222000 +0200" stop="20250314233000 +0200" channel="mbc_drama_plus">
+    <title lang="ar">البطل</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314233000 +0200" stop="20250315001500 +0200" channel="mbc_drama_plus">
+    <title lang="ar">عمتي نوير</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314141500 +0200" stop="20250314155000 +0200" channel="mbc_egypt">
+    <title lang="ar">سيد الناس</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314155000 +0200" stop="20250314170000 +0200" channel="mbc_egypt">
+    <title lang="ar">بروود كاست مع حسن عسيري</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314170000 +0200" stop="20250314180000 +0200" channel="mbc_egypt">
+    <title lang="ar">رامز إيلون مصر</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314180000 +0200" stop="20250314193000 +0200" channel="mbc_egypt">
+    <title lang="ar">العتاولة 2</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314193000 +0200" stop="20250314204500 +0200" channel="mbc_egypt">
+    <title lang="ar">المداح ج5 : أسطورة العهد</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314204500 +0200" stop="20250314220000 +0200" channel="mbc_egypt">
+    <title lang="ar">أشغال شقة جدا</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314220000 +0200" stop="20250314235000 +0200" channel="mbc_egypt">
+    <title lang="ar">إش إش</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314235000 +0200" stop="20250315014000 +0200" channel="mbc_egypt">
+    <title lang="ar">سيد الناس</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314133000 +0200" stop="20250314150000 +0200" channel="mbc_masr_2">
+    <title lang="ar">المداح ج5 : أسطورة العهد</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314150000 +0200" stop="20250314170000 +0200" channel="mbc_masr_2">
+    <title lang="ar">أشغال شقة جدا</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314170000 +0200" stop="20250314184000 +0200" channel="mbc_masr_2">
+    <title lang="ar">سيد الناس</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314184000 +0200" stop="20250314201500 +0200" channel="mbc_masr_2">
+    <title lang="ar">80 باكو</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314201500 +0200" stop="20250314210000 +0200" channel="mbc_masr_2">
+    <title lang="ar">بروود كاست مع حسن عسيري</title>
+    <title lang="ar">ﺑﺮﻧﺎﻣﺞ
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314210000 +0200" stop="20250314220000 +0200" channel="mbc_masr_2">
+    <title lang="ar">معاوية</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314220000 +0200" stop="20250314231500 +0200" channel="mbc_masr_2">
+    <title lang="ar">العتاولة 2</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
+  <programme start="20250314231500 +0200" stop="20250315010000 +0200" channel="mbc_masr_2">
+    <title lang="ar">المداح ج5 : أسطورة العهد</title>
+    <title lang="ar">مسلسل
+               (2025)</title>
+    <title lang="ar">مفضل
+            ذكرني</title>
+  </programme>
 </tv>

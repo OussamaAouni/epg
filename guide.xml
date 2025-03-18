@@ -120,14 +120,6 @@
     <display-name lang="ar">mbc Action</display-name>
     <url>http://www.elcinema.com</url>
   </channel>
-  <programme start="20250318140000 +0100" stop="20250318150000 +0100" channel="mbc">
-    <title lang="ar">إفطارنا غير ج4</title>
-    <desc lang="ar">برنامج طبخ يقدمه الشيف (عمر الوطبان) في الموسم الرابع ومعه ضيوفه الخبراء في مجال الطهي، في رحلة استكشاف سياحية حول السعودية والعالم العربي، مليئة بالمغامرات وبأشهى وألذ الوصفات.(n)</desc>
-  </programme>
-  <programme start="20250318150000 +0100" stop="20250318151500 +0100" channel="mbc">
-    <title lang="ar">مالك بالطويلة</title>
-    <desc lang="ar">برنامج وثائقي اجتماعي، يقدمه الإعلامي مالك الروقي، نتعرف فيه على شخصيات أثرت في تاريخ البشرية، حيث يهدف البرنامج لنشر التوعية المجتمعية. A social documentary program, presented by journalist Malek Al-Rouqi, in which we learn about personalities who influenced human history, as the program aims to spread community awareness.(n)</desc>
-  </programme>
   <programme start="20250318151500 +0100" stop="20250318160000 +0100" channel="mbc">
     <title lang="ar">سين</title>
     <desc lang="ar">برنامج يقدمه الإعلامي (أحمد الشقيري)، ويسعى من خلاله إلى تلخيص الإيجابيات التي شهدتها كافة القطاعات في المملكة العربية السعودية بشكل بسيط. In this reality presented by Ahmad Al Shugairi, the Saudi journalist seeks to summarize the positives witnessed by all sectors in the Kingdom of Saudi Arabia in a simple way.(n)</desc>
@@ -799,10 +791,6 @@
     <title lang="ar">المداح ج5 : أسطورة العهد</title>
     <desc lang="ar">في الموسم الخامس، وبعد عودته من الموت، يواصل (صابر المداح) حروبه ضد الجن، ويضطر لمواجهة بنات إبليس كعدو جديد بأهداف خبيثة، ويسعى بكل عزمه للتغلب عليهم والتخلص من شرورهم كما اعتاد مسبقًا، كما تشهد حياته الشخصية العديد من التطورات المختلفة. In the fifth season, after his return from death, Saber Al Maddah continues his wars against the jinn and is forced to confront the daughters of Satan as a new enemy with malicious goals. He seeks with all his determination to overcome them and get rid of their evils, as he was accustomed to before, and his personal life also witnesses many different developments.(n)</desc>
   </programme>
-  <programme start="20250318150000 +0100" stop="20250318160000 +0100" channel="mbc_drama">
-    <title lang="ar">تحت سابع أرض</title>
-    <desc lang="ar">يستغل الضابط (موسى) صلاحياته لتحقيق مكاسب شخصية بطرق فاسدة وملتوية، مما يجعله في مواجهة مباشرة مع الأشخاص الذين يبتزهم، بينما يكتشف أن أخويه يزوران الدولارات، فيجد نفسه في مأزق صعب بين تركهم لمواجهة العصابات بمفردهما، أو إدارة هذا العمل بنفسه لحمايتهما. Officer Musa exploits his power to achieve personal gain in corrupt and twisted ways, which puts him in direct confrontation with the people he is blackmailing, while he discovers that his two siblings are counterfeiting dollars, and he finds himself in a difficult dilemma, torn between leaving them to confront the gangs alone, or managing this business himself to protect them.(n)</desc>
-  </programme>
   <programme start="20250318160000 +0100" stop="20250318170000 +0100" channel="mbc_drama">
     <title lang="ar">إش إش</title>
     <desc lang="ar">ترث (إش إش) جمال والدتها وفقرها، وتجد نفسها تعمل راقصة رغمًا عنها، ثم تدخل بالصدفة إلى عالم عائلة (آل الجريتلي)، لتكتشف أن حاضرها المأساوي ليس إلا امتدادًا لأسرار عائلية مدفونة لدى هذه العائلة. Ish Ish inherits her mother's beauty and poverty, and finds herself working as a dancer against her will. Then, by chance, she enters the world of the Gretelli family, only to discover that her tragic present is nothing but an extension of family secrets buried in this family.(n)</desc>
@@ -1026,14 +1014,6 @@
   <programme start="20250320230000 +0100" stop="20250321000000 +0100" channel="mbc_drama">
     <title lang="ar">عمتي نوير</title>
     <desc lang="ar">بعد وفاة والدها، يتوجب على (نوير) تنفيذ وصيته وحفظ سر امتلاكه ثروة ضخمة وعدم إخبار العائلة بها، لكن تشتعل الصراعات والمؤامرات من حولها عندما يحاول الجميع الوصول إلى سر الثروة والحصول عليها، مما يؤدي لخلق توترات وخلافات غير متوقعة داخل الأسرة. After her father's death, Nowayr must carry out his will and keep the secret of his huge fortune from the family. Still, conflicts and conspiracies ignite around her when everyone tries to reach the wealth and obtain it, which leads to the creation of unexpected tensions and disputes within the family.(n)</desc>
-  </programme>
-  <programme start="20250318151500 +0100" stop="20250318160000 +0100" channel="mbc_drama_plus">
-    <title lang="ar">بيت حمولة</title>
-    <desc lang="ar">في إطار درامي، وتحت سقف واحد مع عائلتها، تتلاعب أم أرملة بحياة أولادها وأزواجهم، مما يثير صراعات حول التقاليد والرغبات الشخصية، وكل ذلك باسم حبها الخانق لهم. A widow manipulates the lives of her sons and their spouses, sparking conflicts over tradition and personal desires, all in the name of her suffocating love for them.(n)</desc>
-  </programme>
-  <programme start="20250318160000 +0100" stop="20250318164500 +0100" channel="mbc_drama_plus">
-    <title lang="ar">تحت سابع أرض</title>
-    <desc lang="ar">يستغل الضابط (موسى) صلاحياته لتحقيق مكاسب شخصية بطرق فاسدة وملتوية، مما يجعله في مواجهة مباشرة مع الأشخاص الذين يبتزهم، بينما يكتشف أن أخويه يزوران الدولارات، فيجد نفسه في مأزق صعب بين تركهم لمواجهة العصابات بمفردهما، أو إدارة هذا العمل بنفسه لحمايتهما. Officer Musa exploits his power to achieve personal gain in corrupt and twisted ways, which puts him in direct confrontation with the people he is blackmailing, while he discovers that his two siblings are counterfeiting dollars, and he finds himself in a difficult dilemma, torn between leaving them to confront the gangs alone, or managing this business himself to protect them.(n)</desc>
   </programme>
   <programme start="20250318164500 +0100" stop="20250318173000 +0100" channel="mbc_drama_plus">
     <title lang="ar">إش إش</title>
@@ -1310,10 +1290,6 @@
   <programme start="20250320233000 +0100" stop="20250321001500 +0100" channel="mbc_drama_plus">
     <title lang="ar">عمتي نوير</title>
     <desc lang="ar">بعد وفاة والدها، يتوجب على (نوير) تنفيذ وصيته وحفظ سر امتلاكه ثروة ضخمة وعدم إخبار العائلة بها، لكن تشتعل الصراعات والمؤامرات من حولها عندما يحاول الجميع الوصول إلى سر الثروة والحصول عليها، مما يؤدي لخلق توترات وخلافات غير متوقعة داخل الأسرة. After her father's death, Nowayr must carry out his will and keep the secret of his huge fortune from the family. Still, conflicts and conspiracies ignite around her when everyone tries to reach the wealth and obtain it, which leads to the creation of unexpected tensions and disputes within the family.(n)</desc>
-  </programme>
-  <programme start="20250318153000 +0100" stop="20250318160000 +0100" channel="mbc_4">
-    <title lang="ar">Leyla</title>
-    <desc lang="ar">تعود (ليلى) للانتقام من زوجة أبيها التي تخلت عنها بعد زواج والدها من امرأة أخرى، إلا أنها تبدأ رحلة مليئة بالنضال ضد المرأة التي دمرت حياتها. Leyla returns to take revenge on her stepmother who abandoned her after her father married again, as she begins a journey full of struggle against the woman who destroyed her life.(n)</desc>
   </programme>
   <programme start="20250318160000 +0100" stop="20250318170000 +0100" channel="mbc_4">
     <title lang="ar">للموت ج2</title>
@@ -1798,15 +1774,6 @@
     <title lang="ar">لعبة قدري</title>
     <desc lang="ar">بعد ترك (جمال) لزوجته وطفليه، تواجه (آسيا) قرار الهروب مع الطفلين بعد حادثة مأساوية تعترض حياتهم، لكنها غير مدركة أن اللجوء في قصر (دميرهان) بفضل (ماهر) ليس خلاصًا. After Cemal abandons his wife and two kids, a tragic event forces Asiye to flee with her two kids, but she is unaware that taking refuge in the Demirhan palace thanks to Mahir is not what it seems to be.(n)</desc>
   </programme>
-  <programme start="20250320230000 +0100" stop="20250321020000 +0100" channel="lbci">
-    <title lang="ar">برنامج Ramadan talk</title>
-    <title lang="ar">11:00  مساءً
-              [180 دقيقة]</title>
-  </programme>
-  <programme start="20250318143000 +0100" stop="20250318161500 +0100" channel="on_e">
-    <title lang="ar">قهوة المحطة</title>
-    <desc lang="ar">يتولى وكيل نيابة شاب مهمة التحقيق في جريمة قتل غامضة حدثت في محطة قطار، وأثناء بحثه عن القاتل ومحاولة كشف أسرار الجريمة، يجد نفسه عالقًا بين الأدلة وحدسه الشخصي، وأمام عدد من الأشخاص الذين تصوب نحوهم أصابع الاتهام. A young prosecutor takes on the task of investigating a mysterious murder that took place at a train station. While searching for the killer and trying to uncover the secrets of the crime, he finds himself stuck between the evidence and his personal intuition, facing a number of suspects.(n)</desc>
-  </programme>
   <programme start="20250318161500 +0100" stop="20250318170000 +0100" channel="on_e">
     <title lang="ar">برنامج نفوس</title>
     <title lang="ar">04:15  مساءً
@@ -1987,10 +1954,6 @@
     <title lang="ar">شباب امرأة</title>
     <desc lang="ar">تحاول التاجرة المتسلطة (شفاعات) استغلال الشاب الريفي الساذج (إمام) الذي وفد حديثًا إلى القاهرة لإغوائه وإيقاعه في حبها على الرغم من أنه يصغرها سنًا، بينما يسعى كل من حولها إلى إبعاده عن طريقها، لكن يتغير كل شيء عندما يقع في حب فتاة شابة، حينها تشعر (شفاعات) بالغيرة وتخطط للانتقام منه. The domineering merchant Shafaa tries to exploit the naive rural young man Imam, who recently arrived in Cairo, to seduce him and make him fall in love with her even though he is younger than her. Everyone around her seeks to keep him out of her way, but everything changes when he falls in love with a young girl. Then Shafaa feels jealous and plans revenge on him.(n)</desc>
   </programme>
-  <programme start="20250318144500 +0100" stop="20250318161500 +0100" channel="dmc">
-    <title lang="ar">حسبة عمري</title>
-    <desc lang="ar">تتفاقم الخلافات بين (هند) وزوجها (فاروق) ويطردها من المنزل، فتسعى للحصول على الطلاق والمطالبة بحق (الكد والسعاية) والحصول على نصف ممتلكاته، فتبدأ بينهما حرب طويلة حول ذلك، ويتدخل فيها أطراف كثيرة ما بين مؤيد ومعارض. Disagreements between Hind and her husband Farouk escalate and he throws her out of the house. She seeks to obtain a divorce and demands her right to toil and pursuit and to obtain half of his property. A long war begins between them over this, and many parties intervene on both sides.(n)</desc>
-  </programme>
   <programme start="20250318161500 +0100" stop="20250318170000 +0100" channel="dmc">
     <title lang="ar">لعلهم يفقهون</title>
     <desc lang="ar">برنامج ديني، يقدمه كل من الشيخ خالد الجندي والشيخ رمضان عبد المعز، ويناقش البرنامج كافة قضايا المجتمع والشباب والدين اﻹسلامي، والاختلاف المذهبي والفقهي. A religious program presented by Sheikh Khaled Al Jundi and Sheikh Ramadan Abdel Moez, in which they discuss all issues of society, youth, the Islamic religion, and sectarian and jurisprudential differences.(n)</desc>
@@ -2170,11 +2133,6 @@
     <title lang="ar">ظلم المصطبة</title>
     <desc lang="ar">في إحدى المناطق الريفية، يتنافس (حسن) وصديقه (حمادة) على حب (ربيعة)، ثم يسافر (حسن) إلى الخارج فيجد (حمادة) الفرصة سانحة أمامه ليتزوجها، بينما يستغل نفوذ شقيقه الشيخ (علاء) من أجل تحقيق مصالحه الشخصية ويفرضان سلطتهما على سكان المنطقة، ثم يعلن (حسن) الحرب عليهما بعد عودته. In a rural area, Hassan and Hamada compete over Rabia. Hassan then travels abroad, so Hamada takes the opportunity to marry her while exploiting the influence of his brother Sheikh Alaa to achieve his personal interests, and both impose their authority on the residents of the area. Hassan then returns and declares war on them.(n)</desc>
   </programme>
-  <programme start="20250318151500 +0100" stop="20250318163000 +0100" channel="alhayat_tv">
-    <title lang="ar">برنامج العباقرة</title>
-    <title lang="ar">03:15  مساءً
-              [75 دقيقة]</title>
-  </programme>
   <programme start="20250318163000 +0100" stop="20250318170000 +0100" channel="alhayat_tv">
     <title lang="ar">الإمام الطيب</title>
     <desc lang="ar">برنامج يقدمه شيخ الأزهر أحمد الطيب، يتناول فيه عدد من القضايا التي تهم المجتمع المصري والعربي، والمسلمين وغير المسلمين، ومن بينها قضايا المرأة والشباب والإلحاد والإرهاب. A program presented by Grand Imam of Al Azhar, Ahmed El Tayeb, in which he addresses several issues of concern to Egyptian and Arab society, Muslims and non-Muslims, including issues of women, youth, atheism, and terrorism.(n)</desc>
@@ -2283,6 +2241,11 @@
     <title lang="ar">شارع شريف ج4</title>
     <desc lang="ar">يقدم البرنامج فقرات ترفيهية ومتنوعة بشكل جديد ومختلف، ومنها فقرات (فن، مطبخ، فاشون شو، أبراج وطاقة، أطفال، أعياد ميلاد)، وذلك من خلال ديكور البرنامج وهو عبارة عن شارع ممتد محاكاة للشارع الحقيقي الذي يحتوي على كوافير إلى جانب مطعم وأماكن للمشاة وللجلوس وعيادة. The program presents various entertainment segments in a new and different way, including art, cooking, fashion, horoscopes, children, and birthdays, through the set design of the program, which is an extended street simulating a real street, which contains a hairdresser, along with a restaurant, pedestrian areas and a clinic.(n)</desc>
   </programme>
+  <programme start="20250319151500 +0100" stop="20250319163000 +0100" channel="alhayat_tv">
+    <title lang="ar">برنامج العباقرة</title>
+    <title lang="ar">03:15  مساءً
+              [75 دقيقة]</title>
+  </programme>
   <programme start="20250319163000 +0100" stop="20250319170000 +0100" channel="alhayat_tv">
     <title lang="ar">الإمام الطيب</title>
     <desc lang="ar">برنامج يقدمه شيخ الأزهر أحمد الطيب، يتناول فيه عدد من القضايا التي تهم المجتمع المصري والعربي، والمسلمين وغير المسلمين، ومن بينها قضايا المرأة والشباب والإلحاد والإرهاب. A program presented by Grand Imam of Al Azhar, Ahmed El Tayeb, in which he addresses several issues of concern to Egyptian and Arab society, Muslims and non-Muslims, including issues of women, youth, atheism, and terrorism.(n)</desc>
@@ -2346,11 +2309,6 @@
   <programme start="20250320214500 +0100" stop="20250320230000 +0100" channel="alhayat_tv">
     <title lang="ar">فهد البطل</title>
     <desc lang="ar">تدور الأحداث داخل مصنع رخام في منطقة شق الثعبان، حيث يعمل (فهد) حِرَفيًا بالمصنع، وذلك بعد هروبه من عائلته في الصعيد بسبب تعرضه للظلم، ثم يقع في حب زميلته (كناريا)، لكن المنافسة بينه وبين والدها في سوق الرخام تضع عوائق كبيرة أمام علاقتهما. In a marble factory in the Shaq El Thoaban area, Fahd works as a craftsman after escaping from his family in Upper Egypt after facing injustice. He then falls in love with his co-worker Kanaria, but the competition between him and her father in the marble market poses major obstacles to their relationship.(n)</desc>
-  </programme>
-  <programme start="20250318154500 +0100" stop="20250318161500 +0100" channel="cbc">
-    <title lang="ar">برنامج استلام فوري</title>
-    <title lang="ar">03:45  مساءً
-              [30 دقيقة]</title>
   </programme>
   <programme start="20250318161500 +0100" stop="20250318170000 +0100" channel="cbc">
     <title lang="ar">برنامج نور الدين والدنيا</title>
@@ -2462,6 +2420,11 @@
     <title lang="ar">03:15  مساءً
               [30 دقيقة]</title>
   </programme>
+  <programme start="20250319154500 +0100" stop="20250319161500 +0100" channel="cbc">
+    <title lang="ar">برنامج استلام فوري</title>
+    <title lang="ar">03:45  مساءً
+              [30 دقيقة]</title>
+  </programme>
   <programme start="20250319170000 +0100" stop="20250319181500 +0100" channel="cbc">
     <title lang="ar">شهادة معاملة أطفال</title>
     <desc lang="ar">يتعرض المحامي اللامع (عبدالستار الكف) لحادث سيارة مأساوي، ويدخل على إثره في غيبوبة تستمر لمدة 20 عامًا، وعندما يفيق من غيبوبته يجد نفسه أمام أشياء ومفاهيم غريبة لم يشهدها من قبل، ويتوجب عليه مواكبة العصر والتطورات التي حدثت، لكنه يجد صعوبة في ذلك. The brilliant lawyer Abdel Sattar El Kaf is involved in a tragic car accident, and as a result, he enters a coma that lasts for 20 years. When he wakes up from his coma, he finds himself faced with strange things and concepts that he has never witnessed before. He must keep up with the times and the developments that have occurred but finds it difficult to do so.(n)</desc>
@@ -2545,20 +2508,6 @@
   <programme start="20250320231500 +0100" stop="20250321003000 +0100" channel="cbc">
     <title lang="ar">حكيم باشا</title>
     <desc lang="ar">يعمل (حكيم) في التنقيب عن الآثار وتجارتها، ثم يضع عمه كل أملاك العائلة في يده نظرًا لذكائه ومساندته له في إدارة أعماله، ويصبح بذلك كبيرًا للعائلة ويُحكم السيطرة على أمورها، لكن سرعان ما يكثر أعداؤه، وتحيط به المؤامرات من كل اتجاه، حتى من أقرب الأقربين. As Hakim works in excavating and trading in antiquities, his uncle puts all the family’s property in his hands due to his intelligence and his supporting him in managing his business. He then becomes the patriarch of the family and controls its affairs, but his enemies soon multiply, and conspiracies surround him from every direction, even from those closest to him.(n)</desc>
-  </programme>
-  <programme start="20250318150000 +0100" stop="20250318160000 +0100" channel="al_nahar_tv">
-    <title lang="ar">شباب امرأة</title>
-    <desc lang="ar">تحاول التاجرة المتسلطة (شفاعات) استغلال الشاب الريفي الساذج (إمام) الذي وفد حديثًا إلى القاهرة لإغوائه وإيقاعه في حبها على الرغم من أنه يصغرها سنًا، بينما يسعى كل من حولها إلى إبعاده عن طريقها، لكن يتغير كل شيء عندما يقع في حب فتاة شابة، حينها تشعر (شفاعات) بالغيرة وتخطط للانتقام منه. The domineering merchant Shafaa tries to exploit the naive rural young man Imam, who recently arrived in Cairo, to seduce him and make him fall in love with her even though he is younger than her. Everyone around her seeks to keep him out of her way, but everything changes when he falls in love with a young girl. Then Shafaa feels jealous and plans revenge on him.(n)</desc>
-  </programme>
-  <programme start="20250318160000 +0100" stop="20250318161500 +0100" channel="al_nahar_tv">
-    <title lang="ar">برنامج بودكاست الخير</title>
-    <title lang="ar">04:00  مساءً
-              [15 دقيقة]</title>
-  </programme>
-  <programme start="20250318161500 +0100" stop="20250318163000 +0100" channel="al_nahar_tv">
-    <title lang="ar">برنامج إني قريب</title>
-    <title lang="ar">04:15  مساءً
-              [15 دقيقة]</title>
   </programme>
   <programme start="20250318163000 +0100" stop="20250318170000 +0100" channel="al_nahar_tv">
     <title lang="ar">ﺭﺳﻮﻡ ﻣﺘﺤﺮﻛﺔ</title>
@@ -2737,6 +2686,16 @@
     <title lang="ar">شباب امرأة</title>
     <desc lang="ar">تحاول التاجرة المتسلطة (شفاعات) استغلال الشاب الريفي الساذج (إمام) الذي وفد حديثًا إلى القاهرة لإغوائه وإيقاعه في حبها على الرغم من أنه يصغرها سنًا، بينما يسعى كل من حولها إلى إبعاده عن طريقها، لكن يتغير كل شيء عندما يقع في حب فتاة شابة، حينها تشعر (شفاعات) بالغيرة وتخطط للانتقام منه. The domineering merchant Shafaa tries to exploit the naive rural young man Imam, who recently arrived in Cairo, to seduce him and make him fall in love with her even though he is younger than her. Everyone around her seeks to keep him out of her way, but everything changes when he falls in love with a young girl. Then Shafaa feels jealous and plans revenge on him.(n)</desc>
   </programme>
+  <programme start="20250319160000 +0100" stop="20250319161500 +0100" channel="al_nahar_tv">
+    <title lang="ar">برنامج بودكاست الخير</title>
+    <title lang="ar">04:00  مساءً
+              [15 دقيقة]</title>
+  </programme>
+  <programme start="20250319161500 +0100" stop="20250319163000 +0100" channel="al_nahar_tv">
+    <title lang="ar">برنامج إني قريب</title>
+    <title lang="ar">04:15  مساءً
+              [15 دقيقة]</title>
+  </programme>
   <programme start="20250319163000 +0100" stop="20250319170000 +0100" channel="al_nahar_tv">
     <title lang="ar">ﺭﺳﻮﻡ ﻣﺘﺤﺮﻛﺔ</title>
     <desc lang="ar">(بكار) طفل نوبي من جنوب (مصر)، يعيش مع والدته في إحدى قرى النوبة، ومع عنزته (رشيدة)، وفي كل حلقة من حلقات المسلسل يخوض (بكار) في كل مرة مغامرة جديدة مع أقرانه في المدرسة، سواء داخل قريته، أو خارجها. Bakkar is a Nubian child from southern Egypt, who lives with his mother and his goat Rashida. He embarks on new adventures with his peers in school, whether inside or outside his village.(n)</desc>
@@ -2836,10 +2795,6 @@
   <programme start="20250320233000 +0100" stop="20250321000000 +0100" channel="al_nahar_tv">
     <title lang="ar">أسود باهت</title>
     <desc lang="ar">يُقدم المسلسل 3 حكايات منفصلة، تحتوي كل حكاية 5 حلقات، وتدور أحداثها حول جريمة غامضة تحتاج حلًا. تبدأ معها سلسلة من التحقيقات التي تكشف عن أسرار وتفاصيل غامضة وصادمة، وعلاقات إنسانية متشابكة. The series presents three separate stories, each containing five episodes, revolving around a mysterious crime that needs to be solved. This leads to a series of investigations that reveal mysterious and shocking secrets and details, as well as intertwined human relationships.(n)</desc>
-  </programme>
-  <programme start="20250318150000 +0100" stop="20250318160000 +0100" channel="mehwar">
-    <title lang="ar">العرافة</title>
-    <desc lang="ar">برنامج تقدمه الإعلامية (بسمة وهبة) يوميًا بعد الإفطار على قناة (المحور)، تستضيف فيه نجوم الفن في العالم العربي وتطرح عليهم أسئلة في الفن وفي حياتهم الخاصة. A program presented by journalist Basma Wahba every day after breaking the fast on El Mehwar channel, in which she hosts stars in the Arab world and asks them questions about art and their private lives.(n)</desc>
   </programme>
   <programme start="20250318160000 +0100" stop="20250318170000 +0100" channel="mehwar">
     <title lang="ar">جوما</title>
@@ -3103,16 +3058,6 @@
     <title lang="ar">جوما</title>
     <desc lang="ar">تتقاطع حياة طبيب نفسي مع العديد من الأشخاص من حوله، لكن تؤدي عقدهم النفسية والماضي السيئ والمشوه لكل منهم إلى حدوث صراعات خفية وأُخرى معلنة، وتدفعهم لارتكاب جرائم بشعة، لتتسبب في خسائر كبيرة للكل. The life of a psychiatrist intersects with many people around him, but their psychological complexes and the bad and distorted past of each of them lead to hidden and overt conflicts, which push them to commit heinous crimes, causing great losses for everyone.(n)</desc>
   </programme>
-  <programme start="20250318153000 +0100" stop="20250318160000 +0100" channel="sada_el_balad">
-    <title lang="ar">برنامج زدني علما</title>
-    <title lang="ar">03:30  مساءً
-              [30 دقيقة]</title>
-  </programme>
-  <programme start="20250318160000 +0100" stop="20250318163000 +0100" channel="sada_el_balad">
-    <title lang="ar">برنامج أسأل المفتي</title>
-    <title lang="ar">04:00  مساءً
-              [30 دقيقة]</title>
-  </programme>
   <programme start="20250318163000 +0100" stop="20250318170000 +0100" channel="sada_el_balad">
     <title lang="ar">برنامج وبشر المؤمنين</title>
     <title lang="ar">04:30  مساءً
@@ -3235,6 +3180,16 @@
   <programme start="20250319150000 +0100" stop="20250319153000 +0100" channel="sada_el_balad">
     <title lang="ar">برنامج علمتني النفوس</title>
     <title lang="ar">03:00  مساءً
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20250319153000 +0100" stop="20250319160000 +0100" channel="sada_el_balad">
+    <title lang="ar">برنامج زدني علما</title>
+    <title lang="ar">03:30  مساءً
+              [30 دقيقة]</title>
+  </programme>
+  <programme start="20250319160000 +0100" stop="20250319163000 +0100" channel="sada_el_balad">
+    <title lang="ar">برنامج أسأل المفتي</title>
+    <title lang="ar">04:00  مساءً
               [30 دقيقة]</title>
   </programme>
   <programme start="20250319171000 +0100" stop="20250319173000 +0100" channel="sada_el_balad">
@@ -3906,10 +3861,6 @@
   <programme start="20250320230000 +0300" stop="20250320234000 +0300" channel="art_hekayat_2">
     <title lang="ar">الحلانجي</title>
     <desc lang="ar">تدور قصة مسلسل الحلانجي حول شخصية طه الحلانجي، التي يجسدها النجم محمد رجب، وهو رجل ذو ذكاء اجتماعي حاد، يمتلك قدرة فائقة على التلاعب بالمواقف والمشاعر، ويستخدم حيله وأساليبه الملتوية للخروج من المآزق التي يقع فيها، دون أن يكون شخصًا شريرًا بالفطرة.(n)</desc>
-  </programme>
-  <programme start="20250318150000 +0100" stop="20250318160000 +0100" channel="rotana_drama">
-    <title lang="ar">واحة الأعرابي</title>
-    <desc lang="ar">يعيش مجموعة من الأعراب تحت سيطرة الحكم العثماني، ويسلط المسلسل الضوء على التحديات والمصاعب التي يتعرضون لها، من صراع معقد بينهم وبين المحتلين في حقبة زمنية غنية بالأحداث تتراوح بين القرن الثامن عشر والقرن التاسع عشر. It follows a group of Bedouins who live under the control of the Ottoman rule, and the challenges and difficulties they face, including a complex conflict between them and the occupiers in an event-rich time period ranging between the 18th and the 19th century.(n)</desc>
   </programme>
   <programme start="20250318160000 +0100" stop="20250318170000 +0100" channel="rotana_drama">
     <title lang="ar">الحلانجي</title>
@@ -4735,10 +4686,6 @@
     <title lang="ar">قهوة المحطة</title>
     <desc lang="ar">يتولى وكيل نيابة شاب مهمة التحقيق في جريمة قتل غامضة حدثت في محطة قطار، وأثناء بحثه عن القاتل ومحاولة كشف أسرار الجريمة، يجد نفسه عالقًا بين الأدلة وحدسه الشخصي، وأمام عدد من الأشخاص الذين تصوب نحوهم أصابع الاتهام. A young prosecutor takes on the task of investigating a mysterious murder that took place at a train station. While searching for the killer and trying to uncover the secrets of the crime, he finds himself stuck between the evidence and his personal intuition, facing a number of suspects.(n)</desc>
   </programme>
-  <programme start="20250318153000 +0100" stop="20250318163000 +0100" channel="al_nahar_drama">
-    <title lang="ar">شباب امرأة</title>
-    <desc lang="ar">تحاول التاجرة المتسلطة (شفاعات) استغلال الشاب الريفي الساذج (إمام) الذي وفد حديثًا إلى القاهرة لإغوائه وإيقاعه في حبها على الرغم من أنه يصغرها سنًا، بينما يسعى كل من حولها إلى إبعاده عن طريقها، لكن يتغير كل شيء عندما يقع في حب فتاة شابة، حينها تشعر (شفاعات) بالغيرة وتخطط للانتقام منه. The domineering merchant Shafaa tries to exploit the naive rural young man Imam, who recently arrived in Cairo, to seduce him and make him fall in love with her even though he is younger than her. Everyone around her seeks to keep him out of her way, but everything changes when he falls in love with a young girl. Then Shafaa feels jealous and plans revenge on him.(n)</desc>
-  </programme>
   <programme start="20250318163000 +0100" stop="20250318170000 +0100" channel="al_nahar_drama">
     <title lang="ar">ﺭﺳﻮﻡ ﻣﺘﺤﺮﻛﺔ</title>
     <desc lang="ar">(بكار) طفل نوبي من جنوب (مصر)، يعيش مع والدته في إحدى قرى النوبة، ومع عنزته (رشيدة)، وفي كل حلقة من حلقات المسلسل يخوض (بكار) في كل مرة مغامرة جديدة مع أقرانه في المدرسة، سواء داخل قريته، أو خارجها. Bakkar is a Nubian child from southern Egypt, who lives with his mother and his goat Rashida. He embarks on new adventures with his peers in school, whether inside or outside his village.(n)</desc>
@@ -4954,10 +4901,6 @@
   <programme start="20250320230000 +0100" stop="20250321000000 +0100" channel="al_nahar_drama">
     <title lang="ar">الحلانجي</title>
     <desc lang="ar">يعمل نصاب محترف لصالح مجموعة من الأشخاص يقومون بأعمال غير قانونية، ثم يقع ضحية لمؤامرة ويدخل على إثرها السجن، وعندما يخرج منه يحاول بناء حياته من جديد ويعقد تحالفات جديدة، بينما يخطط للانتقام ممن ظلموه. A professional con artist works for a group of people who carry out illegal activities. Then he falls victim to a conspiracy and is sent to prison. When he is released, he tries to rebuild his life and makes new alliances while planning revenge on those who wronged him.(n)</desc>
-  </programme>
-  <programme start="20250318150000 +0100" stop="20250318160000 +0100" channel="sada_el_balad_drama">
-    <title lang="ar">العهد</title>
-    <desc lang="ar">تدور الأحداث داخل حارة دمشقية في مرحلتين زمنيتين تفصل بينهما 15 سنة، خلال الفترة التي سبقت تحرير دمشق من الاحتلال العثماني، وفترة هيمنته على الحارة، حيث يولد نزاع قوي بين وجهاء وأعيان الحارة للرد عليه ومقاومته. The events take place inside a Damascus neighborhood in two time periods separated by 15 years, during the period that preceded the liberation of Damascus from the Ottoman occupation, and the period of the Ottoman control over the neighborhood, as a strong conflict erupts among the notables of the neighborhood to respond to and resist it.(n)</desc>
   </programme>
   <programme start="20250318160000 +0100" stop="20250318170000 +0100" channel="sada_el_balad_drama">
     <title lang="ar">ليالي روكسي</title>
@@ -5552,10 +5495,6 @@
     <title lang="ar">عادل مش عادل</title>
     <desc lang="ar">تدور الأحداث في إطار كوميدي حول الشاب عادل المحامي (أحمد الفيشاوي) الذي كان يقوم بعمل مشين وهو شهادة الزور في المحكمة مقابل تعويض مادي من المتهمين, ويقوم بشهادة زور لرجل أعمال ثري كان متهم يخطف فنانة شهيرة نورهان شوقي (دينا ) ويسجن رجل الأعمال وفي السجن يقرر الإنتقام من عادل ونظراً لوجود ضحايا وأعداء كثير لعادل فالجميع يتحد على الإنتقام منه, وتبدأ أحداث غريبة تحدث لعادل كل يوم توقعه في جرائم يتورط بها ولكن في كل مرة كان ينجو بأعجوبة إلا في المرة الأخيرة فيسجن بها ويخرج رجل الأعمال بعد أن أثبت براءته وسجن عادل لكن في النهاية عند إعتراف رجل الأعمال لعادل بالخطة التي حبكها له كي ينتقم منه كان عادل يسجل له إعترافه وإستطاع أن ينجو ويبرئ نفسه.(n)</desc>
   </programme>
-  <programme start="20250318140000 +0100" stop="20250318160000 +0100" channel="mbc_max">
-    <title lang="ar">Pixels</title>
-    <desc lang="ar">يقع لدى الكائنات الفضائية الكثير من اللبس بخصوص ألعاب الفيديو الكلاسيكية التي تنتمي لحقبة الثمانينيات والتي يرسلها البشر إليهم، مما يدفعهم للظن أن هناك إعلانًا للحرب عليهم، فيقومون بمهاجمة الأرض باستخدام الألعاب لتكون نماذج مخصصة لعمليات الهجوم خاصتهم، مما يؤدي بالرئيس ويل كوبر لاستدعاء صديقه القديم برينر الذي كان بطلًا في مسابقات ألعاب الفيديو، وذلك من أجل تكوين فريق من اللاعبين المهرة من أجل إنقاذ الكوكب من خطر الفضائيين. An alien invasion of Earth takes the form of old-school arcade video games that are misinterpreted as a war cry. The president decides to seek help from an old friend by assigning him to lead a team of old-school arcaders to defeat the aliens.(n)</desc>
-  </programme>
   <programme start="20250318160000 +0100" stop="20250318180000 +0100" channel="mbc_max">
     <title lang="ar">Hot Fuzz</title>
     <desc lang="ar">نيكولاس آنجيل (سيمون بيج) هو مثال للشرطي المحترف، فهو يمتلك سجلًا مهنيًا ممتازًا بفضل مهاراته وذكائه وسرعة حركته. ولكن رئيسه يقرر نقل هذا الشرطي المثالي من مقر عمله بالعاصمة لندن إلى بلدة سانفورد المنعزلة، وذلك حتى لا يبدو أقرانه في العمل أقل كفاءة منه مما قد يتسبب في ضغائن بينهم. في البلدة الصغيرة يصبح نيكولاس شريكًا للشرطي داني باترمان (نيك فروست)، وعندما يكتشف نيكولاس سلسلة من الوفيات التي تم تدوينها في السجلات باعتبارها مجرد حوادث، يقرر أن يحرك المياة الراكدة ليكتشف سر تلك المدينة الهادئة. In order to avoid unwanted comparisons with their own track records, the supervisors of skilled London officer Nicholas Angel banish him to the quiet small town of Sandford. But the small town soon becomes the location of some suspicious incidents that Angel is determined to get to the bottom of.(n)</desc>
@@ -5603,10 +5542,6 @@
     <title lang="ar">Clemency</title>
     <desc lang="ar">بعد سنوات من العمل في السجن متخصصة في الإعدامات، تحاول برينداين محاربة الشياطين التي بداخلها، والتي تصنعها وظيفتها من أجل التغلب على فكرة التعاطف مع رجل مقدر له بالإعدام. Having spent years of her life working as a prison warden in a maximum-security prison, Bernadine Williams must question her role when she forms a bond with an inmate who is soon to be executed, forcing her to determine the thin line between good intentions and deadly desires.(n)</desc>
   </programme>
-  <programme start="20250318150000 +0100" stop="20250318163000 +0100" channel="mbc_2">
-    <title lang="ar">Grand Piano</title>
-    <desc lang="ar">يرصد الفيلم قصة طوم سيلزنيك (إلايجا وود) عازف بيانو موهوب ،يعد من أمهر لاعبي البيانو في جيله، طوم يعاني من رهبةٍ شديدة من المسرح مما تجعله ينهار في إحدى الحفلات ويسقط أداؤه. بعد عدة سنوات يعود من جديد لمزاولة لعب البيانو في الحفلات الموسيقية، بينما يقوم طوم بأداء إحدى النوتات الموسيقية وبقلبه للصفحة يجد رسالة شديدة اللهجة من شخص مجهول يهدده بالقتل إذا أخطأ في لعب أي نوتة. After developing stage fright and breaking down on-stage, up-and-coming pianist Tom Selznick (Elijah Wood) stopped playing for years. Now, in his comeback concert, as he is turning the page of his sheet music, he finds a message warning him that if he played one note wrong, he will die.(n)</desc>
-  </programme>
   <programme start="20250318163000 +0100" stop="20250318190000 +0100" channel="mbc_2">
     <title lang="ar">The Girl with the Dragon Tattoo</title>
     <desc lang="ar">(ميخائيل بلومكافست) صحافي وصاحب مجلة بارزة، يُكلف من قبل أحد النافذين اﻷثرياء بكشف الغموض حول واقعة اختفاء ابنة أحد أشقائه منذ 40 عامًا، وتعاونه في هذه المهمة الصعبة قرصانة الحواسيب غريبة اﻷطوار (ليزبيث سالاندر) ويعملان معًا، ويكشفا عن العديد من المفاجأت المروعة خلال هذا التحقيق. Mikael Blomkvist is a journalist who is hired by Mr. Vanger in order to reveal the secret of his niece's murder, almost forty years ago,whose body was never found. Thus Blomkvist resorts to young computer hacker Lisbeth Salander to help him reveal the mystery.(n)</desc>
@@ -5639,10 +5574,6 @@
   <programme start="20250319053000 +0100" stop="20250319073000 +0100" channel="mbc_2">
     <title lang="ar">xXx</title>
     <desc lang="ar">بعد أن فشلت عملية أخرى للقضاء على تلك المجموعة المسماة أناركي 99 والتي تضم مجموعة من الجنود الروس السابقين، يقوم عميل الأمن الوطني أوجستس جيبونز (صامويل ل. جاكسون) بالبحث عن عميلٍ غير تقليدي لينفذ أهدافه. يجد جيبونز ضالته في زاندركيج (فان ديزل) وهو رياضي سابق معروف بسلوكه المتهور واستهتاره بالقانون، ويكلفه جيبونز بمهمة شديدة الخطورة تتعلق بتلك المنظمة التي تهدف لتدمير العالم. تتصاعد الأحداث وتتعقد الأمور وسط أجواءٍ من الإثارة والخطورة المميتة. When NSA Agent Augustus Gibbons recruits Xander Cage, an extreme sports athlete, on a special mission, Cage finds himself obliged to find a way to combat a ruthless enemy.(n)</desc>
-  </programme>
-  <programme start="20250318150000 +0100" stop="20250318163000 +0100" channel="mbc_action">
-    <title lang="ar">أكشن مع وليد</title>
-    <desc lang="ar">برنامج رياضي متنوع، يقدمه الإعلامي السعودي وليد الفراج، على قناة إم بي سي أكشن، يستضيف محللين رياضين ونجوم الرياضة، ويستعرض أهم أحداث وأخبار دوري روشن السعودي لكرة القدم. A diverse sports program presented by Saudi writer Waleed Al Farraj on the MBC Action channel, in which he hosts sports analysts and sports stars. The program reviews the most important events and news of the Saudi Pro League, aka the Roshn Saudi League.(n)</desc>
   </programme>
   <programme start="20250318163000 +0100" stop="20250318170000 +0100" channel="mbc_action">
     <title lang="ar">Overlord</title>

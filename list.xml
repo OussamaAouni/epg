@@ -616,4 +616,8 @@
     <url>http://www.tv.sfr.fr</url>
     <display-name lang="fr">MBC 5</display-name>
   </channel>
+  <channel id="MBC.Masr.fr">
+    <url>http://www.tv.sfr.fr</url>
+    <display-name lang="fr">MBC Masr</display-name>
+  </channel>
 </tv>

@@ -1,0 +1,619 @@
+<?xml version="1.0"?>
+<tv generator-info-name="Xmltv-Merge V1.0.0">
+  <channel id="Rotana.Cinema.fr">
+    <url>http://www.tv.sfr.fr</url>
+    <display-name lang="fr">Rotana Cinema</display-name>
+  </channel>
+  <programme channel="Rotana.Cinema.fr" start="20250318050000 +0000" stop="20250318080000 +0000">
+    <title lang="fr">La cha&#xEE;ne du cin&#xE9;ma et du divertissement familial au Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/9/8/2457897.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cinema.fr" start="20250318080000 +0000" stop="20250318110000 +0000">
+    <title lang="fr">La cha&#xEE;ne du cin&#xE9;ma et du divertissement familial au Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/0/3/2459300.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cinema.fr" start="20250318110000 +0000" stop="20250318140000 +0000">
+    <title lang="fr">La cha&#xEE;ne du cin&#xE9;ma et du divertissement familial au Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/6/4/7023469.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cinema.fr" start="20250318140000 +0000" stop="20250318170000 +0000">
+    <title lang="fr">La cha&#xEE;ne du cin&#xE9;ma et du divertissement familial au Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/0/5/2459509.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cinema.fr" start="20250318170000 +0000" stop="20250318200000 +0000">
+    <title lang="fr">La cha&#xEE;ne du cin&#xE9;ma et du divertissement familial au Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/7/7/2459775.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cinema.fr" start="20250318200000 +0000" stop="20250318230000 +0000">
+    <title lang="fr">La cha&#xEE;ne du cin&#xE9;ma et du divertissement familial au Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/0/3/2459300.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cinema.fr" start="20250318230000 +0000" stop="20250319050000 +0000">
+    <title lang="fr">La cha&#xEE;ne du cin&#xE9;ma et du divertissement familial au Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/0/5/2459509.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cinema.fr" start="20250319050000 +0000" stop="20250319080000 +0000">
+    <title lang="fr">La cha&#xEE;ne du cin&#xE9;ma et du divertissement familial au Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/7/7/2459775.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cinema.fr" start="20250319080000 +0000" stop="20250319110000 +0000">
+    <title lang="fr">La cha&#xEE;ne du cin&#xE9;ma et du divertissement familial au Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/0/3/2459300.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cinema.fr" start="20250319110000 +0000" stop="20250319140000 +0000">
+    <title lang="fr">La cha&#xEE;ne du cin&#xE9;ma et du divertissement familial au Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/9/8/2457897.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cinema.fr" start="20250319140000 +0000" stop="20250319170000 +0000">
+    <title lang="fr">La cha&#xEE;ne du cin&#xE9;ma et du divertissement familial au Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/6/4/7023469.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cinema.fr" start="20250319170000 +0000" stop="20250319200000 +0000">
+    <title lang="fr">La cha&#xEE;ne du cin&#xE9;ma et du divertissement familial au Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/6/4/7023469.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cinema.fr" start="20250319200000 +0000" stop="20250319230000 +0000">
+    <title lang="fr">La cha&#xEE;ne du cin&#xE9;ma et du divertissement familial au Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/0/3/2459300.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cinema.fr" start="20250319230000 +0000" stop="20250320050000 +0000">
+    <title lang="fr">La cha&#xEE;ne du cin&#xE9;ma et du divertissement familial au Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/0/5/2459509.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cinema.fr" start="20250320050000 +0000" stop="20250320080000 +0000">
+    <title lang="fr">La cha&#xEE;ne du cin&#xE9;ma et du divertissement familial au Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/0/5/2459509.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cinema.fr" start="20250320080000 +0000" stop="20250320110000 +0000">
+    <title lang="fr">La cha&#xEE;ne du cin&#xE9;ma et du divertissement familial au Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/7/7/2459775.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cinema.fr" start="20250320110000 +0000" stop="20250320140000 +0000">
+    <title lang="fr">La cha&#xEE;ne du cin&#xE9;ma et du divertissement familial au Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/0/3/2459300.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cinema.fr" start="20250320140000 +0000" stop="20250320170000 +0000">
+    <title lang="fr">La cha&#xEE;ne du cin&#xE9;ma et du divertissement familial au Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/9/8/2457897.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cinema.fr" start="20250320170000 +0000" stop="20250320200000 +0000">
+    <title lang="fr">La cha&#xEE;ne du cin&#xE9;ma et du divertissement familial au Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/6/4/7023469.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cinema.fr" start="20250320200000 +0000" stop="20250320230000 +0000">
+    <title lang="fr">La cha&#xEE;ne du cin&#xE9;ma et du divertissement familial au Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/6/4/7023469.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cinema.fr" start="20250320230000 +0000" stop="20250321050000 +0000">
+    <title lang="fr">La cha&#xEE;ne du cin&#xE9;ma et du divertissement familial au Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/9/8/2457897.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cinema.fr" start="20250321050000 +0000" stop="20250321080000 +0000">
+    <title lang="fr">La cha&#xEE;ne du cin&#xE9;ma et du divertissement familial au Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/6/4/7023469.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cinema.fr" start="20250321080000 +0000" stop="20250321110000 +0000">
+    <title lang="fr">La cha&#xEE;ne du cin&#xE9;ma et du divertissement familial au Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/9/8/2457897.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cinema.fr" start="20250321110000 +0000" stop="20250321140000 +0000">
+    <title lang="fr">La cha&#xEE;ne du cin&#xE9;ma et du divertissement familial au Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/9/8/2457897.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cinema.fr" start="20250321140000 +0000" stop="20250321170000 +0000">
+    <title lang="fr">La cha&#xEE;ne du cin&#xE9;ma et du divertissement familial au Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/0/5/2459509.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cinema.fr" start="20250321170000 +0000" stop="20250321200000 +0000">
+    <title lang="fr">La cha&#xEE;ne du cin&#xE9;ma et du divertissement familial au Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/0/3/2459300.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cinema.fr" start="20250321200000 +0000" stop="20250321230000 +0000">
+    <title lang="fr">La cha&#xEE;ne du cin&#xE9;ma et du divertissement familial au Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/7/7/2459775.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cinema.fr" start="20250321230000 +0000" stop="20250322050000 +0000">
+    <title lang="fr">La cha&#xEE;ne du cin&#xE9;ma et du divertissement familial au Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/7/7/2459775.jpg"/>
+  </programme>
+  <channel id="Rotana.Cin&#xE9;ma+.FR.fr">
+    <url>http://www.tv.sfr.fr</url>
+    <display-name lang="fr">Rotana Cin&#xE9;ma+ FR</display-name>
+  </channel>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250318000000 +0000" stop="20250318020000 +0000">
+    <title lang="fr">Sameer, Shaheer &amp; Baheer</title>
+    <desc lang="fr">Trois fr&#xE8;res du m&#xEA;me p&#xE8;re mais de m&#xE8;res diff&#xE9;rentes sont confront&#xE9;s &#xE0; de nombreux probl&#xE8;mes et crises dans leur vie, du ch&#xF4;mage aux projets de mariage et &#xE0; la r&#xE9;alisation de leurs objectifs.</desc>
+    <category lang="fr">Com&#xE9;die</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/4/2/2455242.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250318020000 +0000" stop="20250318040000 +0000">
+    <title lang="fr">Khalawes</title>
+    <desc lang="fr">Alors qu'il joue avec ses amis, Ali Hassan est arr&#xEA;t&#xE9; &#xE0; la suite d'une erreur d'identit&#xE9;. Son p&#xE8;re demande l'aide d'une jeune avocate pour prouver son innocence.</desc>
+    <category lang="fr">Com&#xE9;die</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/4/3/2455342.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250318040000 +0000" stop="20250318060000 +0000">
+    <title lang="fr">Al Feel Al Azra' 2</title>
+    <desc lang="fr">Un homme doit affronter des d&#xE9;fis pour se prot&#xE9;ger et prot&#xE9;ger sa famille apr&#xE8;s avoir consult&#xE9; un psychiatre concernant le cas d'une femme qui a assassin&#xE9; son mari et sa fille.</desc>
+    <category lang="fr">Drame</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/3/6/2454638.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250318060000 +0000" stop="20250318080000 +0000">
+    <title lang="fr">Monopoly : The Bank of Luck</title>
+    <desc lang="fr">Par vengeance, un employ&#xE9; de banque et deux complices pas tr&#xE8;s malins s'essayent au cambriolage.</desc>
+    <category lang="fr">Com&#xE9;die</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/9/6/2454694.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250318080000 +0000" stop="20250318100000 +0000">
+    <title lang="fr">Scarecrow</title>
+    <desc lang="fr">L'&#x153;uvre tourne autour d'un grand-p&#xE8;re qui a vol&#xE9; dans sa jeunesse un chef-d'&#x153;uvre rare appartenant &#xE0; la d&#xE9;funte chanteuse Umm Kulthum.</desc>
+    <category lang="fr">Com&#xE9;die</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/4/3/2455342.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250318100000 +0000" stop="20250318120000 +0000">
+    <title lang="fr">Oedtet El Khawaga</title>
+    <sub-title lang="fr">Khawagah</sub-title>
+    <desc lang="fr">Fares est un homme ambitieux qui tombe amoureux de Sally, la fille d'un homme d'affaires influent. Le couple traverse de nombreux obstacles tandis que Fares cache son d&#xE9;sir de vengeance pour la mort de son fr&#xE8;re.</desc>
+    <category lang="fr">Com&#xE9;die</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/4/2/2455242.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250318120000 +0000" stop="20250318140000 +0000">
+    <title lang="fr">Ghesh El Zawjiya</title>
+    <desc lang="fr">Un homme d'affaires accepte avec son fils Hazem d'&#xE9;pouser Salma, une joueuse de football et la fille d'un directeur de banque, pour r&#xE9;soudre la crise financi&#xE8;re, bien qu'elle soit compl&#xE8;tement &#xE9;loign&#xE9;e de la f&#xE9;minit&#xE9;, il tombe amoureux d'elle apr&#xE8;s le mariage.</desc>
+    <category lang="fr">Drame</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/2/1/2457121.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250318140000 +0000" stop="20250318160000 +0000">
+    <title lang="fr">Our Life Dreams</title>
+    <desc lang="fr">Nada et Khaled ainsi que d'autres jeunes m&#xE8;nent un projet &#xE0; Marsa Alam. Cependant, ils sont confront&#xE9;s &#xE0; des pressions et &#xE0; des conspirations qui tentent par tous les moyens de saboter leur projet &#xE9;mergent, par peur de la concurrence.</desc>
+    <category lang="fr">Film d'aventures</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/7/4/2458473.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250318160000 +0000" stop="20250318180000 +0000">
+    <title lang="fr">Sameer, Shaheer &amp; Baheer</title>
+    <desc lang="fr">Trois fr&#xE8;res du m&#xEA;me p&#xE8;re mais de m&#xE8;res diff&#xE9;rentes sont confront&#xE9;s &#xE0; de nombreux probl&#xE8;mes et crises dans leur vie, du ch&#xF4;mage aux projets de mariage et &#xE0; la r&#xE9;alisation de leurs objectifs.</desc>
+    <category lang="fr">Com&#xE9;die</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/4/2/2455242.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250318180000 +0000" stop="20250318200000 +0000">
+    <title lang="fr">Jeeran Al Saad</title>
+    <desc lang="fr">Un groupe de voisins a un tas de probl&#xE8;mes &#xE0; cause de leurs enfants, et se retrouve dans une spirale de complications. A la fin, ils d&#xE9;couvrent qu'ils doivent coop&#xE9;rer les uns avec les autres pour surmonter ces probl&#xE8;mes, mais y parviendront-ils ?</desc>
+    <category lang="fr">Com&#xE9;die</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/9/6/2455698.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250318200000 +0000" stop="20250318220000 +0000">
+    <title lang="fr">Kheir We Barka</title>
+    <desc lang="fr">Une s&#xE9;rie de situations comiques se produit lorsque deux fr&#xE8;res au ch&#xF4;mage se mettent &#xE0; la recherche d'un emploi correspondant &#xE0; leurs qualifications.</desc>
+    <category lang="fr">Com&#xE9;die</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/9/6/2454694.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250318220000 +0000" stop="20250319000000 +0000">
+    <title lang="fr">Omar &amp; Salma 2</title>
+    <desc lang="fr">Apr&#xE8;s le mariage d'Omar et de Salma et la naissance de leurs deux filles, ils ont eu du mal &#xE0; les &#xE9;lever. Des probl&#xE8;mes surgissent entre eux, Salma se n&#xE9;gligeant et Omar reprenant ses anciennes habitudes et ses multiples relations.</desc>
+    <category lang="fr">Com&#xE9;die</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/9/6/2454694.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250319000000 +0000" stop="20250319020000 +0000">
+    <title lang="fr">Akher Al Donia</title>
+    <desc lang="fr">Une c&#xE9;l&#xE8;bre pr&#xE9;sentatrice t&#xE9;l&#xE9; cause le d&#xE9;c&#xE8;s d'une jeune fille lors dans d'un accident routier. Elle connaitra plus tard le th&#xE9;rapeute qui la suivra dans son parcours de r&#xE9;habilitation mais elle sera sous le shock lorsqu'elle d&#xE9;couvrira le lien entre le th&#xE9;rapeute m&#xEA;me et la victime.</desc>
+    <category lang="fr">Drame</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/2/1/2457121.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250319020000 +0000" stop="20250319040000 +0000">
+    <title lang="fr">Oedtet El Khawaga</title>
+    <sub-title lang="fr">Khawagah</sub-title>
+    <desc lang="fr">Fares est un homme ambitieux qui tombe amoureux de Sally, la fille d'un homme d'affaires influent. Le couple traverse de nombreux obstacles tandis que Fares cache son d&#xE9;sir de vengeance pour la mort de son fr&#xE8;re.</desc>
+    <category lang="fr">Com&#xE9;die</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/4/2/2455242.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250319040000 +0000" stop="20250319060000 +0000">
+    <title lang="fr">Ghesh El Zawjiya</title>
+    <desc lang="fr">Un homme d'affaires accepte avec son fils Hazem d'&#xE9;pouser Salma, une joueuse de football et la fille d'un directeur de banque, pour r&#xE9;soudre la crise financi&#xE8;re, bien qu'elle soit compl&#xE8;tement &#xE9;loign&#xE9;e de la f&#xE9;minit&#xE9;, il tombe amoureux d'elle apr&#xE8;s le mariage.</desc>
+    <category lang="fr">Drame</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/2/1/2457121.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250319060000 +0000" stop="20250319080000 +0000">
+    <title lang="fr">Our Life Dreams</title>
+    <desc lang="fr">Nada et Khaled ainsi que d'autres jeunes m&#xE8;nent un projet &#xE0; Marsa Alam. Cependant, ils sont confront&#xE9;s &#xE0; des pressions et &#xE0; des conspirations qui tentent par tous les moyens de saboter leur projet &#xE9;mergent, par peur de la concurrence.</desc>
+    <category lang="fr">Film d'aventures</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/7/4/2458473.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250319080000 +0000" stop="20250319100000 +0000">
+    <title lang="fr">Sameer, Shaheer &amp; Baheer</title>
+    <desc lang="fr">Trois fr&#xE8;res du m&#xEA;me p&#xE8;re mais de m&#xE8;res diff&#xE9;rentes sont confront&#xE9;s &#xE0; de nombreux probl&#xE8;mes et crises dans leur vie, du ch&#xF4;mage aux projets de mariage et &#xE0; la r&#xE9;alisation de leurs objectifs.</desc>
+    <category lang="fr">Com&#xE9;die</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/4/2/2455242.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250319100000 +0000" stop="20250319120000 +0000">
+    <title lang="fr">Kheir We Barka</title>
+    <desc lang="fr">Une s&#xE9;rie de situations comiques se produit lorsque deux fr&#xE8;res au ch&#xF4;mage se mettent &#xE0; la recherche d'un emploi correspondant &#xE0; leurs qualifications.</desc>
+    <category lang="fr">Com&#xE9;die</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/9/6/2454694.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250319120000 +0000" stop="20250319140000 +0000">
+    <title lang="fr">Jeeran Al Saad</title>
+    <desc lang="fr">Un groupe de voisins a un tas de probl&#xE8;mes &#xE0; cause de leurs enfants, et se retrouve dans une spirale de complications. A la fin, ils d&#xE9;couvrent qu'ils doivent coop&#xE9;rer les uns avec les autres pour surmonter ces probl&#xE8;mes, mais y parviendront-ils ?</desc>
+    <category lang="fr">Com&#xE9;die</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/9/6/2455698.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250319140000 +0000" stop="20250319160000 +0000">
+    <title lang="fr">Omar &amp; Salma 2</title>
+    <desc lang="fr">Apr&#xE8;s le mariage d'Omar et de Salma et la naissance de leurs deux filles, ils ont eu du mal &#xE0; les &#xE9;lever. Des probl&#xE8;mes surgissent entre eux, Salma se n&#xE9;gligeant et Omar reprenant ses anciennes habitudes et ses multiples relations.</desc>
+    <category lang="fr">Com&#xE9;die</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/9/6/2454694.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250319160000 +0000" stop="20250319180000 +0000">
+    <title lang="fr">Akher Al Donia</title>
+    <desc lang="fr">Une c&#xE9;l&#xE8;bre pr&#xE9;sentatrice t&#xE9;l&#xE9; cause le d&#xE9;c&#xE8;s d'une jeune fille lors dans d'un accident routier. Elle connaitra plus tard le th&#xE9;rapeute qui la suivra dans son parcours de r&#xE9;habilitation mais elle sera sous le shock lorsqu'elle d&#xE9;couvrira le lien entre le th&#xE9;rapeute m&#xEA;me et la victime.</desc>
+    <category lang="fr">Drame</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/2/1/2457121.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250319180000 +0000" stop="20250319200000 +0000">
+    <title lang="fr">Mallaki Alexandria</title>
+    <desc lang="fr">Ghada Adel a s&#xE9;duit une serveuse dans un restaurant. Elle a plu au coureur de jupons, l'homme d'affaires Hussein Khaled Zaki, qui a voulu l'int&#xE9;grer &#xE0; son harem et l'a &#xE9;pous&#xE9;e.</desc>
+    <category lang="fr">Drame</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/2/1/2457121.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250319200000 +0000" stop="20250319220000 +0000">
+    <title lang="fr">Al-Armouti Fe Ard El-Nar</title>
+    <sub-title lang="fr">Armouti Fe Ard El</sub-title>
+    <desc lang="fr">Le film tourne autour de l'utilisation de la technologie par Qarmooti, lorsqu'il part en vacances et se fait accidentellement capturer par le r&#xE9;gime Isis, qui lui montre sa mauvaise interpr&#xE9;tation de la religion. Il est confront&#xE9; &#xE0; plus d'un sc&#xE9;nario : va-t-il les rejoindre, essayer de corriger leur point de vue ou s'&#xE9;chapper ?</desc>
+    <category lang="fr">Film</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/2/2/2480229.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250319220000 +0000" stop="20250320020000 +0000">
+    <title lang="fr">Cousins</title>
+    <category lang="fr">Film de suspense</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/0/5/2454501.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250320020000 +0000" stop="20250320040000 +0000">
+    <title lang="fr">Kheir We Barka</title>
+    <desc lang="fr">Une s&#xE9;rie de situations comiques se produit lorsque deux fr&#xE8;res au ch&#xF4;mage se mettent &#xE0; la recherche d'un emploi correspondant &#xE0; leurs qualifications.</desc>
+    <category lang="fr">Com&#xE9;die</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/9/6/2454694.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250320040000 +0000" stop="20250320060000 +0000">
+    <title lang="fr">Jeeran Al Saad</title>
+    <desc lang="fr">Un groupe de voisins a un tas de probl&#xE8;mes &#xE0; cause de leurs enfants, et se retrouve dans une spirale de complications. A la fin, ils d&#xE9;couvrent qu'ils doivent coop&#xE9;rer les uns avec les autres pour surmonter ces probl&#xE8;mes, mais y parviendront-ils ?</desc>
+    <category lang="fr">Com&#xE9;die</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/8/9/6/2455698.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250320060000 +0000" stop="20250320080000 +0000">
+    <title lang="fr">Omar &amp; Salma 2</title>
+    <desc lang="fr">Apr&#xE8;s le mariage d'Omar et de Salma et la naissance de leurs deux filles, ils ont eu du mal &#xE0; les &#xE9;lever. Des probl&#xE8;mes surgissent entre eux, Salma se n&#xE9;gligeant et Omar reprenant ses anciennes habitudes et ses multiples relations.</desc>
+    <category lang="fr">Com&#xE9;die</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/9/6/2454694.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250320080000 +0000" stop="20250320100000 +0000">
+    <title lang="fr">Akher Al Donia</title>
+    <desc lang="fr">Une c&#xE9;l&#xE8;bre pr&#xE9;sentatrice t&#xE9;l&#xE9; cause le d&#xE9;c&#xE8;s d'une jeune fille lors dans d'un accident routier. Elle connaitra plus tard le th&#xE9;rapeute qui la suivra dans son parcours de r&#xE9;habilitation mais elle sera sous le shock lorsqu'elle d&#xE9;couvrira le lien entre le th&#xE9;rapeute m&#xEA;me et la victime.</desc>
+    <category lang="fr">Drame</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/2/1/2457121.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250320100000 +0000" stop="20250320120000 +0000">
+    <title lang="fr">Al-Armouti Fe Ard El-Nar</title>
+    <sub-title lang="fr">Armouti Fe Ard El</sub-title>
+    <desc lang="fr">Le film tourne autour de l'utilisation de la technologie par Qarmooti, lorsqu'il part en vacances et se fait accidentellement capturer par le r&#xE9;gime Isis, qui lui montre sa mauvaise interpr&#xE9;tation de la religion. Il est confront&#xE9; &#xE0; plus d'un sc&#xE9;nario : va-t-il les rejoindre, essayer de corriger leur point de vue ou s'&#xE9;chapper ?</desc>
+    <category lang="fr">Film</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/2/2/2480229.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250320120000 +0000" stop="20250320140000 +0000">
+    <title lang="fr">Mallaki Alexandria</title>
+    <desc lang="fr">Ghada Adel a s&#xE9;duit une serveuse dans un restaurant. Elle a plu au coureur de jupons, l'homme d'affaires Hussein Khaled Zaki, qui a voulu l'int&#xE9;grer &#xE0; son harem et l'a &#xE9;pous&#xE9;e.</desc>
+    <category lang="fr">Drame</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/2/1/2457121.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250320140000 +0000" stop="20250320180000 +0000">
+    <title lang="fr">Cousins</title>
+    <category lang="fr">Film de suspense</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/0/5/2454501.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250320180000 +0000" stop="20250320200000 +0000">
+    <title lang="fr">Thieves Trick</title>
+    <desc lang="fr">Une bande de voleurs se r&#xE9;unit et commence &#xE0; planifier le casse de sa vie. R&#xE9;ussiront-ils ou leurs plans seront-ils vains ?</desc>
+    <category lang="fr">Com&#xE9;die dramatique</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/4/2/2455242.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250320200000 +0000" stop="20250320220000 +0000">
+    <title lang="fr">My Wife and My Wifey</title>
+    <desc lang="fr">Un homme est mari&#xE9; &#xE0; une f&#xE9;ministe activiste : sa vie quotidienne est faite de d&#xE9;fis inattendus.</desc>
+    <category lang="fr">Com&#xE9;die</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/4/3/2455342.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250320220000 +0000" stop="20250321000000 +0000">
+    <title lang="fr">Freezer Mission</title>
+    <desc lang="fr">Le climat de l'&#xC9;gypte s'est transform&#xE9; en un v&#xE9;ritable gel. Des agents des services de renseignement se rendent en Italie pour obtenir un dispositif permettant d'arr&#xEA;ter le gel. Ils se d&#xE9;guisent en &#xE9;quipe de tournage et s'occupent de l'acteur rat&#xE9; Medih Al-Bolbousy et d'une fille nomm&#xE9;e Tbahy.</desc>
+    <category lang="fr">Com&#xE9;die</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/9/6/2454694.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250321000000 +0000" stop="20250321020000 +0000">
+    <title lang="fr">The Diver</title>
+    <category lang="fr">Drame</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/2/0/2455025.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250321020000 +0000" stop="20250321040000 +0000">
+    <title lang="fr">Al-Armouti Fe Ard El-Nar</title>
+    <sub-title lang="fr">Armouti Fe Ard El</sub-title>
+    <desc lang="fr">Le film tourne autour de l'utilisation de la technologie par Qarmooti, lorsqu'il part en vacances et se fait accidentellement capturer par le r&#xE9;gime Isis, qui lui montre sa mauvaise interpr&#xE9;tation de la religion. Il est confront&#xE9; &#xE0; plus d'un sc&#xE9;nario : va-t-il les rejoindre, essayer de corriger leur point de vue ou s'&#xE9;chapper ?</desc>
+    <category lang="fr">Film</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/9/2/2/2480229.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250321040000 +0000" stop="20250321060000 +0000">
+    <title lang="fr">Mallaki Alexandria</title>
+    <desc lang="fr">Ghada Adel a s&#xE9;duit une serveuse dans un restaurant. Elle a plu au coureur de jupons, l'homme d'affaires Hussein Khaled Zaki, qui a voulu l'int&#xE9;grer &#xE0; son harem et l'a &#xE9;pous&#xE9;e.</desc>
+    <category lang="fr">Drame</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/2/1/2457121.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250321060000 +0000" stop="20250321100000 +0000">
+    <title lang="fr">Cousins</title>
+    <category lang="fr">Film de suspense</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/0/5/2454501.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250321100000 +0000" stop="20250321120000 +0000">
+    <title lang="fr">My Wife and My Wifey</title>
+    <desc lang="fr">Un homme est mari&#xE9; &#xE0; une f&#xE9;ministe activiste : sa vie quotidienne est faite de d&#xE9;fis inattendus.</desc>
+    <category lang="fr">Com&#xE9;die</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/4/3/2455342.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250321120000 +0000" stop="20250321140000 +0000">
+    <title lang="fr">Thieves Trick</title>
+    <desc lang="fr">Une bande de voleurs se r&#xE9;unit et commence &#xE0; planifier le casse de sa vie. R&#xE9;ussiront-ils ou leurs plans seront-ils vains ?</desc>
+    <category lang="fr">Com&#xE9;die dramatique</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/4/2/2455242.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250321140000 +0000" stop="20250321160000 +0000">
+    <title lang="fr">Freezer Mission</title>
+    <desc lang="fr">Le climat de l'&#xC9;gypte s'est transform&#xE9; en un v&#xE9;ritable gel. Des agents des services de renseignement se rendent en Italie pour obtenir un dispositif permettant d'arr&#xEA;ter le gel. Ils se d&#xE9;guisent en &#xE9;quipe de tournage et s'occupent de l'acteur rat&#xE9; Medih Al-Bolbousy et d'une fille nomm&#xE9;e Tbahy.</desc>
+    <category lang="fr">Com&#xE9;die</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/4/9/6/2454694.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250321160000 +0000" stop="20250321180000 +0000">
+    <title lang="fr">The Diver</title>
+    <category lang="fr">Drame</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/5/2/0/2455025.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250321180000 +0000" stop="20250321220000 +0000">
+    <title lang="fr">Ismail Yassine fil ustul</title>
+    <desc lang="fr">Les &#xE9;v&#xE9;nements tournent autour d'un jeune homme qui tombe amoureux de la fille de son cousin, mais sa m&#xE8;re refuse ce mariage et tente de la marier &#xE0; un homme vieux et riche. La jeune fille demande alors &#xE0; son cousin de se porter volontaire dans la flotte, afin d'acc&#xE9;l&#xE9;rer le mariage, et les &#xE9;v&#xE9;nements s'encha&#xEE;nent.</desc>
+    <category lang="fr">Com&#xE9;die</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/4/3/2455342.jpg"/>
+  </programme>
+  <programme channel="Rotana.Cin&#xE9;ma+.FR.fr" start="20250321220000 +0000" stop="20250322000000 +0000">
+    <title lang="fr">Banat Thanawy</title>
+    <desc lang="fr">Cinq adolescentes sont confront&#xE9;es &#xE0; de nombreux dilemmes sociaux et psychologiques en raison des probl&#xE8;mes difficiles &#xE0; g&#xE9;rer en l'absence d'un d'encadrement familial.</desc>
+    <category lang="fr">Com&#xE9;die</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/4/3/2455342.jpg"/>
+  </programme>
+  <channel id="Rotana.Classic.fr">
+    <url>http://www.tv.sfr.fr</url>
+    <display-name lang="fr">Rotana Classic</display-name>
+  </channel>
+  <programme channel="Rotana.Classic.fr" start="20250318050000 +0000" stop="20250318080000 +0000">
+    <title lang="fr">Le plus grand label musical du Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/4/9/3008943.jpg"/>
+  </programme>
+  <programme channel="Rotana.Classic.fr" start="20250318080000 +0000" stop="20250318110000 +0000">
+    <title lang="fr">Le plus grand label musical du Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/4/9/3008947.jpg"/>
+  </programme>
+  <programme channel="Rotana.Classic.fr" start="20250318110000 +0000" stop="20250318140000 +0000">
+    <title lang="fr">Le plus grand label musical du Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/5/6/2462651.jpg"/>
+  </programme>
+  <programme channel="Rotana.Classic.fr" start="20250318140000 +0000" stop="20250318170000 +0000">
+    <title lang="fr">Le plus grand label musical du Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/4/7/2455740.jpg"/>
+  </programme>
+  <programme channel="Rotana.Classic.fr" start="20250318170000 +0000" stop="20250318200000 +0000">
+    <title lang="fr">Le plus grand label musical du Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/0/6/2458602.jpg"/>
+  </programme>
+  <programme channel="Rotana.Classic.fr" start="20250318200000 +0000" stop="20250318230000 +0000">
+    <title lang="fr">Le plus grand label musical du Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/6/8/3008866.jpg"/>
+  </programme>
+  <programme channel="Rotana.Classic.fr" start="20250318230000 +0000" stop="20250319050000 +0000">
+    <title lang="fr">Le plus grand label musical du Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/0/6/2458602.jpg"/>
+  </programme>
+  <programme channel="Rotana.Classic.fr" start="20250319050000 +0000" stop="20250319080000 +0000">
+    <title lang="fr">Le plus grand label musical du Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/5/6/2462651.jpg"/>
+  </programme>
+  <programme channel="Rotana.Classic.fr" start="20250319080000 +0000" stop="20250319110000 +0000">
+    <title lang="fr">Le plus grand label musical du Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/4/9/3008943.jpg"/>
+  </programme>
+  <programme channel="Rotana.Classic.fr" start="20250319110000 +0000" stop="20250319140000 +0000">
+    <title lang="fr">Le plus grand label musical du Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/4/9/3008947.jpg"/>
+  </programme>
+  <programme channel="Rotana.Classic.fr" start="20250319140000 +0000" stop="20250319170000 +0000">
+    <title lang="fr">Le plus grand label musical du Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/6/8/3008866.jpg"/>
+  </programme>
+  <programme channel="Rotana.Classic.fr" start="20250319170000 +0000" stop="20250319200000 +0000">
+    <title lang="fr">Le plus grand label musical du Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/0/6/2458602.jpg"/>
+  </programme>
+  <programme channel="Rotana.Classic.fr" start="20250319200000 +0000" stop="20250319230000 +0000">
+    <title lang="fr">Le plus grand label musical du Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/5/6/2462651.jpg"/>
+  </programme>
+  <programme channel="Rotana.Classic.fr" start="20250319230000 +0000" stop="20250320050000 +0000">
+    <title lang="fr">Le plus grand label musical du Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/4/7/2455740.jpg"/>
+  </programme>
+  <programme channel="Rotana.Classic.fr" start="20250320050000 +0000" stop="20250320080000 +0000">
+    <title lang="fr">Le plus grand label musical du Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/4/9/3008947.jpg"/>
+  </programme>
+  <programme channel="Rotana.Classic.fr" start="20250320080000 +0000" stop="20250320110000 +0000">
+    <title lang="fr">Le plus grand label musical du Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/0/6/2458602.jpg"/>
+  </programme>
+  <programme channel="Rotana.Classic.fr" start="20250320110000 +0000" stop="20250320140000 +0000">
+    <title lang="fr">Le plus grand label musical du Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/4/9/3008947.jpg"/>
+  </programme>
+  <programme channel="Rotana.Classic.fr" start="20250320140000 +0000" stop="20250320170000 +0000">
+    <title lang="fr">Le plus grand label musical du Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/5/6/2462651.jpg"/>
+  </programme>
+  <programme channel="Rotana.Classic.fr" start="20250320170000 +0000" stop="20250320200000 +0000">
+    <title lang="fr">Le plus grand label musical du Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/6/8/3008866.jpg"/>
+  </programme>
+  <programme channel="Rotana.Classic.fr" start="20250320200000 +0000" stop="20250320230000 +0000">
+    <title lang="fr">Le plus grand label musical du Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/4/9/3008943.jpg"/>
+  </programme>
+  <programme channel="Rotana.Classic.fr" start="20250320230000 +0000" stop="20250321050000 +0000">
+    <title lang="fr">Le plus grand label musical du Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/4/7/2455740.jpg"/>
+  </programme>
+  <programme channel="Rotana.Classic.fr" start="20250321050000 +0000" stop="20250321080000 +0000">
+    <title lang="fr">Le plus grand label musical du Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/0/6/2458602.jpg"/>
+  </programme>
+  <programme channel="Rotana.Classic.fr" start="20250321080000 +0000" stop="20250321110000 +0000">
+    <title lang="fr">Le plus grand label musical du Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/0/4/7/2455740.jpg"/>
+  </programme>
+  <programme channel="Rotana.Classic.fr" start="20250321110000 +0000" stop="20250321140000 +0000">
+    <title lang="fr">Le plus grand label musical du Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/6/6/8/3008866.jpg"/>
+  </programme>
+  <programme channel="Rotana.Classic.fr" start="20250321140000 +0000" stop="20250321170000 +0000">
+    <title lang="fr">Le plus grand label musical du Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/1/5/6/2462651.jpg"/>
+  </programme>
+  <programme channel="Rotana.Classic.fr" start="20250321170000 +0000" stop="20250321200000 +0000">
+    <title lang="fr">Le plus grand label musical du Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/3/4/9/3008943.jpg"/>
+  </programme>
+  <programme channel="Rotana.Classic.fr" start="20250321200000 +0000" stop="20250321230000 +0000">
+    <title lang="fr">Le plus grand label musical du Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/7/4/9/3008947.jpg"/>
+  </programme>
+  <programme channel="Rotana.Classic.fr" start="20250321230000 +0000" stop="20250322050000 +0000">
+    <title lang="fr">Le plus grand label musical du Moyen-Orient</title>
+    <sub-title lang="fr">Orient</sub-title>
+    <category lang="fr">Programme ind&#xE9;termin&#xE9;</category>
+    <icon src="http://static-cdn.tv.sfr.net/data/img/pl/2/0/6/2458602.jpg"/>
+  </programme>
+  <channel id="MBC.5.fr">
+    <url>http://www.tv.sfr.fr</url>
+    <display-name lang="fr">MBC 5</display-name>
+  </channel>
+</tv>

@@ -6685,6 +6685,10 @@
     <title lang="en">Marquee Matchup</title>
     <category lang="en">Entertainment</category>
   </programme>
+  <channel id="NEW_beIN-SPORTS-MAX-05_AR.bein">
+    <display-name lang="en">NEW_beIN-SPORTS-MAX-05_AR</display-name>
+    <url>http://www.bein.com_sports_ar</url>
+  </channel>
   <channel id="NEWS_DIGITAL_Mono_AR.bein">
     <display-name lang="en">NEWS_DIGITAL_Mono_AR</display-name>
     <url>http://www.bein.com_sports_ar</url>

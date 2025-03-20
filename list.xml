@@ -7149,4 +7149,8 @@
     <display-name lang="en">beIN_SPORTS_MAX5_DIGITAL_Mono_EN</display-name>
     <url>http://www.bein.com_sports_en</url>
   </channel>
+  <channel id="NEW_beIN-SPORTS-MAX-05_AR.bein">
+    <display-name lang="en">NEW_beIN-SPORTS-MAX-05_AR</display-name>
+    <url>http://www.bein.com_sports_ar</url>
+  </channel>
 </tv>
